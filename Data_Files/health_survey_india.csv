@@ -1,0 +1,1001 @@
+ID,Age,Gender,State,City,Height_cm,Weight_kg,BMI,Blood_Pressure,Cholesterol_mgdl,Diabetes,Smoking_Habit,Exercise_Frequency,Diet_Type,Medical_Conditions
+,56.0,Other,Delhi,Bangalore,168.4,62.5,23.2,139.0,218.0,No,Yes,Daily,Vegetarian,None
+2.0,69.0,Male,Gujarat,Mumbai,158.5,68.2,30.0,166.0,254.0,Yes,Yes,Weekly,Eggetarian,None
+3.0,46.0,,Karnataka,Bangalore,155.9,51.6,24.0,149.0,299.0,,Occasionally,,Non-Vegetarian,Diabetes
+4.0,32.0,Other,Maharashtra,Chennai,165.9,,25.2,104.0,213.0,Yes,Occasionally,Rarely,Eggetarian,None
+5.0,60.0,Male,Delhi,Mumbai,146.1,69.3,,125.0,190.0,Yes,Yes,,Vegan,
+,25.0,Female,West Bengal,Delhi,162.0,66.1,17.5,152.0,220.0,No,Yes,Weekly,Vegetarian,None
+7.0,,Other,West Bengal,Ahmedabad,148.9,,25.2,158.0,205.0,Yes,No,Daily,Vegan,Heart Disease
+8.0,38.0,,,Ahmedabad,172.8,63.2,21.7,175.0,174.0,,Yes,Weekly,Vegan,None
+9.0,56.0,,Karnataka,Bangalore,175.5,62.3,18.3,169.0,254.0,Yes,Occasionally,Never,,Hypertension
+10.0,75.0,Male,,Kolkata,156.4,57.7,21.9,130.0,283.0,Yes,Yes,Rarely,Non-Vegetarian,Asthma
+11.0,36.0,Male,,Amritsar,169.3,70.1,21.9,163.0,268.0,Yes,Occasionally,,Vegan,Asthma
+12.0,40.0,Female,,Amritsar,174.0,69.6,28.1,113.0,158.0,No,,Never,Eggetarian,Obesity
+13.0,28.0,Male,West Bengal,Delhi,174.0,55.0,19.7,171.0,209.0,Yes,No,Weekly,Eggetarian,Diabetes
+14.0,28.0,Other,West Bengal,Mumbai,167.1,62.3,20.8,138.0,274.0,Yes,,Rarely,Vegetarian,Heart Disease
+15.0,41.0,Other,Karnataka,Delhi,172.3,55.1,24.9,107.0,198.0,No,,Weekly,Eggetarian,Asthma
+16.0,70.0,Male,Tamil Nadu,Delhi,,54.4,18.7,96.0,200.0,No,No,Daily,Vegan,Hypertension
+17.0,53.0,Male,Karnataka,Kolkata,165.8,39.1,21.4,93.0,219.0,No,Yes,Daily,Vegan,None
+18.0,57.0,Other,Punjab,Amritsar,160.3,61.5,17.3,179.0,186.0,Yes,No,Daily,Eggetarian,Asthma
+19.0,41.0,Female,Gujarat,Mumbai,157.7,39.5,27.7,158.0,180.0,Yes,Yes,Daily,Vegetarian,Hypertension
+20.0,20.0,Male,Gujarat,,165.4,58.1,22.8,149.0,,Yes,,Daily,Vegetarian,
+21.0,39.0,Male,Tamil Nadu,Kolkata,168.5,55.8,23.9,144.0,242.0,Yes,No,,Eggetarian,Diabetes
+22.0,,Other,West Bengal,,176.6,80.8,27.7,105.0,163.0,No,Occasionally,Daily,Non-Vegetarian,Asthma
+23.0,19.0,Male,Karnataka,Delhi,167.7,49.8,21.1,179.0,228.0,No,Yes,Daily,Non-Vegetarian,Asthma
+24.0,41.0,Female,Gujarat,Chennai,171.4,53.6,22.8,171.0,157.0,Yes,Occasionally,,Non-Vegetarian,Hypertension
+25.0,61.0,Other,Punjab,Delhi,171.5,59.3,19.8,118.0,,Yes,No,,Non-Vegetarian,Obesity
+26.0,47.0,Male,Delhi,Delhi,,56.3,19.8,112.0,,Yes,Yes,Rarely,Eggetarian,Heart Disease
+27.0,55.0,Other,Maharashtra,Delhi,146.9,85.5,20.3,103.0,234.0,,,Rarely,Vegetarian,Diabetes
+28.0,,Male,Maharashtra,Ahmedabad,158.1,47.9,22.0,168.0,177.0,,Occasionally,Rarely,Vegan,
+29.0,77.0,Male,Maharashtra,Kolkata,179.7,59.3,22.5,138.0,,No,Yes,Weekly,Vegan,
+30.0,38.0,Male,West Bengal,,161.5,,25.2,122.0,253.0,Yes,Occasionally,Weekly,Eggetarian,Heart Disease
+31.0,50.0,Female,Karnataka,Kolkata,173.9,78.2,20.4,114.0,250.0,No,No,Never,Vegan,None
+32.0,29.0,Female,Tamil Nadu,Chennai,167.3,59.3,25.3,110.0,178.0,Yes,No,Never,Non-Vegetarian,Diabetes
+33.0,,Other,Gujarat,Delhi,186.1,36.2,25.9,106.0,,Yes,No,Rarely,Vegetarian,Heart Disease
+34.0,39.0,Male,Delhi,Kolkata,153.9,62.7,22.1,112.0,231.0,,Yes,Weekly,Eggetarian,None
+35.0,78.0,Male,Punjab,,,85.3,20.8,146.0,159.0,Yes,Occasionally,Daily,Vegetarian,Hypertension
+36.0,61.0,Female,,Amritsar,182.5,69.2,,170.0,,No,Occasionally,Never,Eggetarian,Heart Disease
+37.0,42.0,,Punjab,,154.9,68.5,23.2,,150.0,Yes,No,Weekly,Eggetarian,Diabetes
+38.0,66.0,Female,West Bengal,Bangalore,172.8,,24.9,103.0,188.0,No,Occasionally,Daily,Eggetarian,
+39.0,44.0,Male,Karnataka,Kolkata,155.3,47.5,30.3,109.0,170.0,Yes,Yes,Daily,Eggetarian,Heart Disease
+40.0,76.0,Other,,Bangalore,165.3,65.3,24.3,119.0,214.0,No,No,Weekly,Vegetarian,Hypertension
+41.0,,Male,Karnataka,Delhi,162.4,43.6,,108.0,164.0,Yes,No,Never,Vegan,
+42.0,45.0,Male,West Bengal,Ahmedabad,,76.7,20.4,142.0,281.0,Yes,No,Weekly,Eggetarian,None
+43.0,77.0,Female,Tamil Nadu,Ahmedabad,169.2,52.3,,145.0,210.0,No,Yes,Never,Non-Vegetarian,Heart Disease
+44.0,33.0,,Tamil Nadu,Kolkata,166.4,64.6,18.1,166.0,297.0,Yes,No,Rarely,Eggetarian,Diabetes
+45.0,32.0,Male,West Bengal,Chennai,179.8,36.7,27.7,171.0,287.0,No,No,Weekly,Vegetarian,Asthma
+46.0,79.0,,Punjab,Chennai,171.1,59.1,15.1,112.0,236.0,No,No,Weekly,Eggetarian,None
+47.0,79.0,Other,Gujarat,Ahmedabad,187.9,47.2,26.0,151.0,254.0,Yes,No,Never,Non-Vegetarian,None
+48.0,64.0,Other,Gujarat,Chennai,166.1,30.2,,122.0,183.0,Yes,Occasionally,Never,Vegetarian,None
+,79.0,Female,Punjab,Ahmedabad,163.9,,22.0,,273.0,Yes,No,Weekly,Eggetarian,None
+50.0,68.0,Female,Tamil Nadu,Kolkata,163.2,89.6,20.4,162.0,259.0,Yes,Yes,Daily,Non-Vegetarian,Heart Disease
+51.0,61.0,Female,Tamil Nadu,Pune,160.6,81.9,29.8,122.0,182.0,No,No,Daily,Vegetarian,Diabetes
+52.0,72.0,Female,Tamil Nadu,Ahmedabad,142.9,75.2,24.1,121.0,247.0,Yes,No,,Eggetarian,Hypertension
+53.0,69.0,Female,Karnataka,Bangalore,,58.8,27.2,,,Yes,Occasionally,Rarely,Non-Vegetarian,Diabetes
+,74.0,Other,Tamil Nadu,Chennai,,77.1,29.2,143.0,159.0,,No,Rarely,,None
+55.0,20.0,Other,Delhi,Ahmedabad,169.5,83.4,24.7,106.0,233.0,No,,Never,Eggetarian,Obesity
+56.0,54.0,Female,Maharashtra,Ahmedabad,152.6,67.1,19.2,108.0,214.0,Yes,Yes,Rarely,Vegetarian,Heart Disease
+57.0,68.0,Male,Tamil Nadu,Kolkata,156.1,47.2,23.1,159.0,226.0,No,Occasionally,Daily,Non-Vegetarian,Obesity
+58.0,24.0,,Punjab,Chennai,158.3,57.5,21.0,,150.0,Yes,No,Weekly,Eggetarian,Heart Disease
+59.0,38.0,Male,Maharashtra,Pune,163.0,90.5,22.0,173.0,282.0,,Yes,Rarely,Eggetarian,None
+60.0,,Female,Karnataka,Kolkata,165.1,63.9,,114.0,229.0,Yes,No,Rarely,Eggetarian,Heart Disease
+61.0,,Female,Punjab,Pune,175.8,15.1,23.5,157.0,164.0,Yes,Occasionally,Daily,Non-Vegetarian,
+62.0,,Other,Maharashtra,Amritsar,159.2,43.0,25.6,163.0,177.0,No,Yes,,Vegan,Diabetes
+63.0,21.0,Male,Punjab,Kolkata,169.8,58.6,26.2,163.0,172.0,Yes,Yes,Never,Eggetarian,Asthma
+64.0,,,Karnataka,Chennai,192.3,80.5,,177.0,,Yes,Occasionally,Weekly,,Heart Disease
+65.0,77.0,Other,Delhi,Mumbai,168.8,60.9,25.6,,256.0,Yes,Occasionally,Daily,Vegetarian,None
+66.0,31.0,Other,Karnataka,Chennai,163.2,80.8,,100.0,294.0,No,Yes,Never,Vegetarian,Obesity
+67.0,67.0,Other,Karnataka,Chennai,157.2,57.1,29.3,105.0,262.0,Yes,Yes,Daily,,None
+68.0,,Other,Punjab,,163.1,35.5,21.7,179.0,247.0,No,Occasionally,Never,Vegan,Obesity
+69.0,26.0,Male,West Bengal,Pune,156.1,57.6,,150.0,290.0,No,No,Weekly,Non-Vegetarian,Heart Disease
+70.0,43.0,Male,Gujarat,Chennai,167.7,70.2,18.1,169.0,291.0,No,Yes,,Vegetarian,
+71.0,70.0,Female,Tamil Nadu,Chennai,166.0,68.9,22.5,96.0,,Yes,Occasionally,Never,Vegetarian,Obesity
+72.0,19.0,Female,Tamil Nadu,Chennai,,46.2,22.7,105.0,177.0,No,No,Never,Eggetarian,None
+73.0,37.0,Other,Delhi,Pune,164.8,59.7,25.1,,191.0,No,Yes,Never,Vegan,Heart Disease
+74.0,45.0,Other,Delhi,Chennai,175.8,105.3,27.4,,248.0,Yes,Yes,Never,Non-Vegetarian,None
+75.0,64.0,Other,Tamil Nadu,Chennai,161.0,46.5,,101.0,210.0,No,Occasionally,Never,,Hypertension
+76.0,77.0,Female,Gujarat,,,74.9,19.6,124.0,272.0,No,No,Never,Vegetarian,Asthma
+77.0,24.0,,Tamil Nadu,Delhi,151.2,33.5,18.4,110.0,213.0,Yes,Yes,Weekly,Vegetarian,Hypertension
+78.0,61.0,,,Mumbai,146.4,78.0,29.3,,180.0,Yes,No,Never,Non-Vegetarian,Diabetes
+79.0,78.0,Female,Gujarat,Bangalore,173.3,51.6,25.2,132.0,230.0,No,No,Rarely,Non-Vegetarian,Heart Disease
+80.0,25.0,Female,,Mumbai,163.2,71.0,19.7,106.0,159.0,Yes,,Weekly,Vegan,Hypertension
+81.0,64.0,Female,Maharashtra,Delhi,172.7,,22.2,121.0,157.0,Yes,No,Daily,Eggetarian,Asthma
+82.0,52.0,Female,Punjab,Bangalore,180.3,,28.7,130.0,,Yes,Yes,Weekly,Eggetarian,None
+83.0,31.0,Other,West Bengal,Kolkata,174.2,51.4,22.9,95.0,,No,No,Daily,Eggetarian,Heart Disease
+84.0,34.0,Other,West Bengal,Chennai,159.6,54.3,22.7,177.0,179.0,No,Yes,Daily,Vegetarian,Obesity
+85.0,53.0,Other,Delhi,Delhi,166.4,71.6,20.9,116.0,294.0,Yes,Occasionally,Rarely,Eggetarian,Hypertension
+86.0,67.0,Other,Delhi,Amritsar,,58.5,19.9,109.0,169.0,No,Yes,Never,Vegetarian,Asthma
+87.0,57.0,Female,Karnataka,Kolkata,157.9,70.7,28.7,114.0,197.0,Yes,Yes,Never,Vegan,Hypertension
+,,Male,West Bengal,Chennai,168.4,62.1,30.7,155.0,279.0,Yes,Yes,Weekly,Vegetarian,Diabetes
+,19.0,Female,Karnataka,Pune,156.7,66.0,20.1,98.0,186.0,Yes,No,Never,Vegan,Heart Disease
+90.0,79.0,Male,Karnataka,,142.9,71.7,29.6,142.0,278.0,Yes,Occasionally,Rarely,Vegan,None
+91.0,23.0,Other,Punjab,Delhi,156.1,59.7,22.1,150.0,281.0,Yes,No,Weekly,Eggetarian,Asthma
+92.0,,Female,Karnataka,Pune,161.9,50.1,,127.0,249.0,No,No,Weekly,Eggetarian,Hypertension
+93.0,59.0,Other,Gujarat,Delhi,180.2,57.0,29.6,92.0,203.0,No,Yes,,Vegetarian,Heart Disease
+,21.0,Female,Tamil Nadu,Amritsar,,,23.4,173.0,271.0,No,No,Never,Non-Vegetarian,Hypertension
+95.0,71.0,Other,,Delhi,170.1,66.7,22.7,159.0,174.0,No,Yes,Never,,Heart Disease
+96.0,46.0,Male,Delhi,Pune,163.3,52.3,27.2,144.0,280.0,Yes,Occasionally,Never,Eggetarian,Diabetes
+97.0,35.0,Male,Gujarat,Amritsar,177.3,71.0,19.6,90.0,158.0,Yes,No,,,Hypertension
+98.0,43.0,Male,Maharashtra,Bangalore,176.6,72.0,28.6,,183.0,No,No,,Non-Vegetarian,Diabetes
+99.0,,Female,West Bengal,Mumbai,176.8,72.8,,134.0,192.0,No,No,,,Obesity
+100.0,51.0,Male,West Bengal,Chennai,147.7,50.3,21.7,136.0,223.0,Yes,Yes,Daily,Non-Vegetarian,Obesity
+101.0,,,West Bengal,Delhi,167.1,,21.6,168.0,243.0,Yes,Yes,Never,Vegetarian,
+102.0,79.0,,Gujarat,,172.6,54.8,18.5,115.0,171.0,Yes,No,Weekly,Vegan,Diabetes
+103.0,53.0,Male,Gujarat,Ahmedabad,168.8,59.6,21.9,103.0,219.0,No,No,Never,Vegan,
+104.0,31.0,Female,Delhi,Pune,171.4,73.1,22.9,143.0,279.0,Yes,Occasionally,Never,Eggetarian,Asthma
+105.0,48.0,Female,Tamil Nadu,Chennai,165.6,69.4,19.8,160.0,243.0,Yes,Occasionally,Daily,Eggetarian,Hypertension
+106.0,65.0,Male,Karnataka,Pune,157.6,70.6,23.8,135.0,181.0,No,Occasionally,Rarely,,Hypertension
+107.0,32.0,Female,West Bengal,Chennai,148.0,85.3,25.9,120.0,255.0,No,Occasionally,Never,Non-Vegetarian,
+108.0,25.0,Male,Punjab,,158.5,,23.1,177.0,293.0,No,,Rarely,,None
+109.0,31.0,Female,Tamil Nadu,Mumbai,191.8,62.9,26.7,148.0,150.0,Yes,Yes,Rarely,Vegan,None
+,40.0,Other,Punjab,Amritsar,160.1,47.2,20.8,118.0,221.0,Yes,Occasionally,Weekly,Vegetarian,Hypertension
+111.0,77.0,Other,Delhi,Mumbai,145.4,54.3,28.0,106.0,199.0,No,Occasionally,Weekly,Vegetarian,Heart Disease
+112.0,74.0,,Delhi,Amritsar,172.3,61.1,24.5,103.0,290.0,Yes,No,,Non-Vegetarian,None
+113.0,79.0,,Delhi,Mumbai,173.6,77.4,30.2,125.0,164.0,Yes,Yes,Daily,Eggetarian,
+114.0,57.0,Other,Maharashtra,Mumbai,177.9,64.6,33.7,147.0,202.0,Yes,Occasionally,,Eggetarian,Hypertension
+115.0,,Male,Punjab,Mumbai,169.7,55.2,22.1,113.0,157.0,No,Occasionally,Never,Vegetarian,Obesity
+116.0,33.0,Other,Tamil Nadu,,173.5,54.0,22.3,152.0,223.0,No,,Never,Vegan,Diabetes
+117.0,62.0,Other,Tamil Nadu,Delhi,183.4,,23.0,114.0,195.0,Yes,No,Daily,Eggetarian,Heart Disease
+118.0,35.0,Other,Gujarat,Amritsar,157.5,78.3,26.4,148.0,218.0,Yes,No,Rarely,Vegan,
+119.0,,Other,Gujarat,,155.6,88.9,29.3,121.0,263.0,,No,Never,Vegetarian,Diabetes
+120.0,70.0,Female,West Bengal,Mumbai,154.1,61.9,21.4,171.0,296.0,Yes,Occasionally,Rarely,Eggetarian,None
+121.0,41.0,Male,Gujarat,Pune,162.3,64.3,25.5,107.0,272.0,No,No,Never,Vegan,None
+122.0,43.0,Other,Delhi,Pune,179.3,46.8,23.5,126.0,288.0,No,,Never,Vegetarian,Obesity
+123.0,,Other,Tamil Nadu,Pune,170.3,94.1,26.5,115.0,266.0,Yes,Yes,Rarely,Vegan,Asthma
+,,,Punjab,Amritsar,169.9,44.0,30.0,98.0,192.0,Yes,Occasionally,Rarely,Eggetarian,Hypertension
+125.0,77.0,Male,Delhi,Delhi,146.8,82.6,23.0,153.0,,No,,Daily,Non-Vegetarian,Obesity
+126.0,,Female,Maharashtra,Amritsar,158.1,59.5,17.3,,297.0,Yes,Yes,Never,Vegan,Heart Disease
+127.0,62.0,Male,Gujarat,,146.6,56.0,27.0,109.0,170.0,No,Occasionally,Weekly,,
+128.0,,Female,Delhi,Delhi,176.7,48.3,20.7,,231.0,Yes,Yes,Weekly,Eggetarian,Diabetes
+129.0,46.0,Other,Delhi,Bangalore,180.9,101.2,23.4,175.0,206.0,No,Yes,,Non-Vegetarian,Heart Disease
+130.0,,Other,Maharashtra,Kolkata,172.8,,27.1,172.0,223.0,Yes,Yes,,Vegetarian,Heart Disease
+131.0,62.0,Male,Karnataka,,155.1,65.3,25.2,,247.0,Yes,Occasionally,Never,Non-Vegetarian,None
+132.0,18.0,Male,,Amritsar,,78.3,23.6,142.0,259.0,No,,Rarely,Vegan,Diabetes
+133.0,42.0,Female,Punjab,Bangalore,162.5,55.2,21.7,152.0,264.0,No,Occasionally,Weekly,Vegan,None
+134.0,,Female,West Bengal,Ahmedabad,152.9,,12.4,100.0,191.0,Yes,No,Weekly,Non-Vegetarian,None
+135.0,26.0,Male,Karnataka,Amritsar,155.4,65.8,26.8,,217.0,Yes,Occasionally,Weekly,Vegetarian,Asthma
+136.0,41.0,Female,Gujarat,Mumbai,160.7,57.3,23.0,138.0,219.0,No,Occasionally,Never,Eggetarian,
+137.0,18.0,,Delhi,Kolkata,165.5,83.0,30.1,,227.0,No,Occasionally,Rarely,Non-Vegetarian,Hypertension
+138.0,61.0,Female,Maharashtra,Mumbai,163.4,61.7,25.6,108.0,239.0,Yes,No,Never,Vegan,Heart Disease
+,,Male,Maharashtra,Delhi,150.9,41.7,,101.0,260.0,Yes,Occasionally,Daily,Vegan,None
+140.0,41.0,,Tamil Nadu,Kolkata,177.1,60.5,28.3,104.0,261.0,No,Yes,Daily,Non-Vegetarian,Obesity
+141.0,28.0,Male,Karnataka,Amritsar,163.5,68.7,28.6,120.0,252.0,No,Occasionally,Weekly,Non-Vegetarian,Hypertension
+142.0,68.0,,West Bengal,Chennai,157.9,51.6,23.1,132.0,294.0,No,Yes,,Non-Vegetarian,
+143.0,34.0,Female,Tamil Nadu,Bangalore,176.1,52.8,28.8,126.0,168.0,No,No,Daily,Eggetarian,Heart Disease
+144.0,25.0,Female,Delhi,Chennai,153.2,56.8,21.8,168.0,219.0,No,No,Daily,Vegan,Obesity
+145.0,52.0,Male,Tamil Nadu,Amritsar,148.7,,24.6,118.0,212.0,Yes,Occasionally,Never,Vegan,Obesity
+146.0,,Female,Punjab,Delhi,177.7,57.7,26.3,115.0,224.0,Yes,Occasionally,Rarely,Vegan,Diabetes
+147.0,50.0,Female,Maharashtra,Mumbai,183.9,,27.1,91.0,253.0,No,Occasionally,Never,Eggetarian,Obesity
+148.0,76.0,Male,,Kolkata,,55.8,26.5,173.0,224.0,Yes,Yes,,Vegetarian,Hypertension
+149.0,22.0,Other,,Chennai,164.5,69.9,,104.0,277.0,Yes,No,Rarely,Vegan,Diabetes
+150.0,59.0,Male,Gujarat,Amritsar,153.5,58.3,28.4,93.0,205.0,No,Yes,Weekly,Vegan,Obesity
+151.0,56.0,Female,West Bengal,Chennai,165.1,,23.5,175.0,171.0,Yes,Yes,Weekly,Vegetarian,Diabetes
+,75.0,Male,Delhi,Amritsar,160.2,48.2,21.7,139.0,238.0,Yes,Occasionally,Weekly,Eggetarian,Diabetes
+153.0,58.0,Other,,Mumbai,164.0,76.1,21.8,127.0,168.0,Yes,Occasionally,Rarely,Vegetarian,None
+154.0,45.0,Male,Karnataka,Kolkata,169.1,66.7,31.8,112.0,175.0,No,Yes,Daily,Vegetarian,None
+155.0,24.0,Female,Tamil Nadu,Bangalore,154.0,55.4,21.0,148.0,172.0,No,Yes,Rarely,,None
+156.0,26.0,Other,West Bengal,Mumbai,,62.5,29.2,179.0,196.0,Yes,Occasionally,,,Obesity
+157.0,25.0,,Delhi,Chennai,147.0,,19.5,,162.0,Yes,,Rarely,Eggetarian,
+158.0,29.0,Other,,Bangalore,161.5,67.1,26.0,117.0,215.0,,Yes,Daily,Eggetarian,
+159.0,51.0,Other,Tamil Nadu,Amritsar,164.1,54.5,25.2,155.0,293.0,,Occasionally,Daily,Vegetarian,Obesity
+160.0,,Male,Gujarat,Bangalore,167.3,46.9,30.5,97.0,222.0,Yes,Occasionally,Never,Non-Vegetarian,None
+161.0,65.0,Male,Tamil Nadu,Amritsar,167.4,72.6,21.4,118.0,226.0,Yes,Yes,Weekly,Non-Vegetarian,
+162.0,72.0,Female,Karnataka,Mumbai,174.0,67.9,20.3,100.0,180.0,No,Yes,Daily,Non-Vegetarian,Obesity
+163.0,40.0,Male,Delhi,Chennai,149.6,75.4,,107.0,234.0,Yes,No,Daily,Non-Vegetarian,Diabetes
+164.0,79.0,Male,Tamil Nadu,Delhi,150.1,43.1,30.7,144.0,,Yes,Yes,Daily,Vegan,Diabetes
+165.0,41.0,Other,Punjab,Chennai,170.3,47.4,,139.0,190.0,No,Occasionally,Never,Eggetarian,Diabetes
+166.0,54.0,Male,West Bengal,Amritsar,144.6,82.2,13.6,103.0,261.0,Yes,Yes,Daily,Eggetarian,Asthma
+167.0,52.0,Other,Maharashtra,Pune,166.8,70.0,24.2,163.0,245.0,,Yes,Weekly,Vegetarian,Heart Disease
+168.0,61.0,Other,Punjab,Kolkata,153.2,73.0,27.8,98.0,271.0,Yes,,Never,Vegan,Hypertension
+169.0,57.0,Other,Punjab,Ahmedabad,180.7,50.6,19.9,100.0,254.0,Yes,No,Weekly,Vegetarian,Hypertension
+170.0,,,West Bengal,Delhi,167.5,50.3,27.4,152.0,223.0,No,No,Daily,Vegetarian,None
+,44.0,Female,Maharashtra,Bangalore,162.8,79.9,19.9,165.0,281.0,Yes,Occasionally,Daily,Eggetarian,Asthma
+172.0,52.0,Female,Punjab,Delhi,,,,156.0,,,,Weekly,Vegan,Obesity
+173.0,18.0,Other,Tamil Nadu,,154.4,48.7,27.0,142.0,275.0,Yes,Yes,Never,Non-Vegetarian,Obesity
+174.0,52.0,,Tamil Nadu,Bangalore,156.3,45.8,19.3,128.0,287.0,,No,Never,Eggetarian,Hypertension
+175.0,54.0,Female,,Kolkata,152.4,63.4,24.7,167.0,224.0,No,Yes,Weekly,Vegan,Heart Disease
+,64.0,Male,Maharashtra,Bangalore,156.3,53.0,28.9,145.0,,Yes,No,Daily,Vegan,
+177.0,31.0,Female,Punjab,Delhi,165.6,52.7,,,187.0,No,No,Rarely,Eggetarian,None
+178.0,20.0,,Maharashtra,Bangalore,,46.2,21.1,164.0,289.0,No,No,Weekly,Eggetarian,Heart Disease
+179.0,18.0,Other,Tamil Nadu,Bangalore,174.6,58.0,30.1,128.0,194.0,No,Yes,Weekly,Vegetarian,Hypertension
+180.0,,Other,West Bengal,Pune,146.8,47.7,26.6,114.0,294.0,Yes,,,Vegetarian,Asthma
+,43.0,Other,Punjab,,163.3,48.6,16.6,110.0,224.0,Yes,Yes,Daily,Vegetarian,None
+182.0,,Other,Punjab,Chennai,153.9,69.5,27.5,99.0,178.0,Yes,Yes,Never,Non-Vegetarian,Hypertension
+183.0,31.0,Other,Gujarat,Ahmedabad,162.9,64.2,21.7,132.0,167.0,Yes,,Daily,Eggetarian,Obesity
+184.0,56.0,Other,Gujarat,Ahmedabad,188.3,72.3,24.8,104.0,169.0,No,No,Weekly,Vegan,None
+185.0,44.0,Female,Karnataka,Amritsar,167.9,40.3,28.0,172.0,163.0,Yes,Occasionally,,Eggetarian,Hypertension
+186.0,26.0,Other,Delhi,Amritsar,174.0,65.1,21.8,137.0,203.0,Yes,Occasionally,Daily,Vegan,Obesity
+,32.0,Other,Gujarat,Amritsar,184.6,96.1,17.4,175.0,180.0,,Yes,Weekly,Non-Vegetarian,Obesity
+188.0,32.0,Male,Maharashtra,Pune,176.3,59.4,30.0,110.0,,No,No,Daily,Eggetarian,Diabetes
+189.0,43.0,Female,Gujarat,Ahmedabad,160.5,77.4,,149.0,253.0,Yes,Yes,Rarely,Vegan,Asthma
+190.0,59.0,Female,Karnataka,Kolkata,152.2,77.2,23.7,139.0,277.0,,,Daily,Vegan,
+191.0,77.0,,Punjab,,,78.0,27.4,112.0,174.0,No,No,Daily,Vegetarian,Hypertension
+192.0,30.0,Other,Karnataka,Amritsar,159.3,67.5,22.5,102.0,168.0,No,Yes,Never,,
+193.0,68.0,Other,,Delhi,149.8,73.5,24.4,158.0,285.0,,No,Never,Eggetarian,Diabetes
+194.0,49.0,Other,West Bengal,Mumbai,167.4,75.5,23.4,93.0,152.0,No,No,Weekly,Vegetarian,Heart Disease
+195.0,56.0,Male,West Bengal,Kolkata,167.7,74.5,22.7,,235.0,Yes,Yes,,Non-Vegetarian,Obesity
+196.0,66.0,,Punjab,Amritsar,182.7,48.2,25.4,161.0,294.0,Yes,,Never,Vegetarian,Hypertension
+197.0,69.0,Male,Delhi,Amritsar,161.4,39.4,19.2,98.0,291.0,Yes,,,Eggetarian,Asthma
+198.0,78.0,Female,Gujarat,Amritsar,167.8,41.7,23.0,124.0,158.0,Yes,Yes,Daily,Vegan,Heart Disease
+199.0,49.0,Other,Maharashtra,Mumbai,158.3,60.9,25.3,110.0,243.0,Yes,No,Rarely,Eggetarian,Hypertension
+,21.0,Male,Maharashtra,Mumbai,173.7,73.9,,147.0,,Yes,Occasionally,Rarely,Non-Vegetarian,Heart Disease
+201.0,47.0,,Tamil Nadu,Pune,163.8,48.4,19.3,107.0,288.0,Yes,No,Never,Eggetarian,Diabetes
+202.0,54.0,Other,Punjab,Kolkata,153.3,78.9,26.1,161.0,169.0,No,Occasionally,,Non-Vegetarian,Hypertension
+203.0,40.0,Female,,Pune,164.9,57.5,,170.0,184.0,Yes,Yes,Daily,Vegetarian,Diabetes
+204.0,56.0,Female,Delhi,Bangalore,168.9,57.6,,132.0,202.0,Yes,Yes,Weekly,Non-Vegetarian,None
+205.0,62.0,Female,Punjab,Mumbai,,52.5,25.6,95.0,,Yes,Yes,Rarely,Vegan,
+206.0,32.0,Male,Delhi,Delhi,175.5,36.7,27.5,175.0,285.0,No,No,Rarely,,Heart Disease
+,60.0,Male,Maharashtra,Ahmedabad,150.5,,26.4,167.0,153.0,Yes,Occasionally,Weekly,Vegan,None
+208.0,46.0,Male,Maharashtra,Delhi,156.6,90.7,23.7,156.0,251.0,Yes,No,Weekly,Vegetarian,Diabetes
+209.0,53.0,Male,Tamil Nadu,,171.4,64.1,25.3,101.0,196.0,No,Occasionally,Never,Non-Vegetarian,Diabetes
+210.0,30.0,Female,Maharashtra,,157.7,37.2,24.7,101.0,243.0,Yes,Yes,Weekly,Vegetarian,Heart Disease
+211.0,49.0,Other,Punjab,,167.4,76.7,17.2,155.0,197.0,Yes,No,Weekly,Eggetarian,None
+212.0,24.0,,West Bengal,Mumbai,140.8,40.6,24.8,91.0,240.0,No,Yes,Never,Eggetarian,Obesity
+213.0,76.0,Male,,Pune,192.2,46.9,,104.0,233.0,Yes,No,Weekly,Eggetarian,Asthma
+214.0,68.0,,Punjab,Kolkata,162.3,61.4,21.2,112.0,217.0,No,Yes,Rarely,,Heart Disease
+,39.0,Other,Tamil Nadu,Ahmedabad,176.9,66.8,33.9,118.0,,Yes,,Weekly,Vegan,Diabetes
+216.0,45.0,Other,Tamil Nadu,Kolkata,161.6,49.9,29.0,170.0,274.0,Yes,No,Daily,Non-Vegetarian,Hypertension
+217.0,19.0,Female,Maharashtra,Pune,169.1,60.8,19.4,96.0,222.0,Yes,Occasionally,,Vegan,None
+218.0,59.0,Female,Karnataka,Pune,179.9,,25.4,117.0,153.0,No,Yes,Never,Non-Vegetarian,Obesity
+219.0,62.0,Other,Karnataka,Chennai,,77.8,29.8,103.0,225.0,No,Occasionally,Rarely,Non-Vegetarian,Asthma
+220.0,79.0,Male,Tamil Nadu,,163.0,83.8,18.0,133.0,222.0,No,Occasionally,Never,Vegetarian,Hypertension
+221.0,74.0,Other,Maharashtra,Delhi,,93.6,24.3,119.0,226.0,Yes,Yes,Daily,Eggetarian,None
+222.0,70.0,Female,,,175.0,77.1,24.5,170.0,197.0,Yes,No,Daily,,Obesity
+223.0,23.0,Male,Maharashtra,Amritsar,188.3,61.7,,121.0,251.0,,Occasionally,Rarely,Eggetarian,Heart Disease
+224.0,45.0,Male,Maharashtra,Pune,166.9,77.9,25.5,,255.0,No,Yes,,,Obesity
+225.0,45.0,Female,Maharashtra,Ahmedabad,,72.0,28.5,177.0,,Yes,No,Rarely,Eggetarian,Heart Disease
+226.0,61.0,Female,Gujarat,Chennai,162.6,72.6,30.0,95.0,188.0,Yes,,Rarely,Vegan,None
+227.0,61.0,Female,Punjab,Chennai,174.5,67.7,23.0,116.0,207.0,,Occasionally,Daily,Eggetarian,Obesity
+228.0,37.0,,Maharashtra,Amritsar,176.0,51.3,34.0,171.0,168.0,Yes,Occasionally,Never,,Asthma
+229.0,47.0,Other,,,160.9,49.6,15.8,177.0,237.0,No,No,Rarely,Vegan,Obesity
+230.0,79.0,,Tamil Nadu,Amritsar,157.5,,25.4,113.0,262.0,Yes,Occasionally,,Eggetarian,None
+,28.0,Female,Karnataka,Amritsar,176.5,67.2,18.4,123.0,226.0,Yes,No,Daily,Vegetarian,
+232.0,75.0,Male,Punjab,Amritsar,159.7,54.8,24.4,129.0,226.0,Yes,Occasionally,Rarely,Eggetarian,Hypertension
+233.0,72.0,Male,West Bengal,Delhi,156.1,71.4,21.9,136.0,177.0,Yes,Yes,,Eggetarian,Obesity
+234.0,45.0,Male,Karnataka,Pune,158.2,,26.0,168.0,215.0,Yes,Occasionally,Weekly,Vegan,Obesity
+235.0,42.0,Male,Punjab,Bangalore,159.6,38.8,23.5,164.0,159.0,Yes,Yes,Rarely,Non-Vegetarian,Heart Disease
+236.0,56.0,Female,West Bengal,Pune,,73.7,20.7,,275.0,Yes,Yes,Rarely,Eggetarian,None
+237.0,79.0,Male,,Kolkata,,64.0,21.0,113.0,207.0,No,Yes,Rarely,,Heart Disease
+238.0,50.0,,Punjab,Mumbai,172.2,71.8,31.7,,,No,No,Rarely,Vegan,
+239.0,18.0,Female,Karnataka,Amritsar,169.2,58.5,25.8,107.0,274.0,No,Yes,Weekly,Non-Vegetarian,Hypertension
+240.0,74.0,Other,Karnataka,Pune,159.1,62.8,17.2,133.0,261.0,Yes,,Rarely,Vegan,Diabetes
+241.0,44.0,Female,West Bengal,Kolkata,,66.9,26.2,,233.0,No,No,Rarely,Non-Vegetarian,
+242.0,79.0,Other,Karnataka,Mumbai,176.8,,,146.0,292.0,,Yes,Rarely,Vegetarian,
+243.0,74.0,,Karnataka,Mumbai,170.8,42.2,24.0,117.0,245.0,Yes,No,Daily,Eggetarian,None
+244.0,69.0,Female,West Bengal,Amritsar,169.5,61.5,27.3,160.0,182.0,Yes,No,Weekly,Vegan,Diabetes
+245.0,30.0,,Tamil Nadu,Bangalore,,43.8,28.7,112.0,294.0,Yes,No,Daily,,None
+246.0,58.0,Other,Maharashtra,,,74.8,20.6,174.0,290.0,No,Occasionally,Daily,,Hypertension
+247.0,20.0,Other,Delhi,Delhi,156.8,37.0,23.9,,196.0,,Yes,Weekly,Vegan,Asthma
+248.0,56.0,Male,,Pune,164.8,,21.8,100.0,261.0,Yes,No,Daily,Vegetarian,Asthma
+249.0,,Other,Delhi,Mumbai,148.6,71.4,26.4,175.0,,No,No,,Vegan,Heart Disease
+250.0,25.0,Other,Delhi,Pune,,71.5,23.1,124.0,192.0,No,No,Daily,Vegan,Hypertension
+251.0,44.0,Other,Punjab,Ahmedabad,163.1,,24.1,,157.0,No,Yes,Weekly,Vegetarian,
+252.0,26.0,Other,,Delhi,159.5,60.1,22.9,117.0,152.0,Yes,No,,Vegan,None
+,79.0,Male,Punjab,Ahmedabad,166.1,82.3,23.6,171.0,274.0,No,,Never,Non-Vegetarian,Heart Disease
+254.0,54.0,Other,Maharashtra,Delhi,163.7,57.2,30.8,167.0,161.0,Yes,Occasionally,Never,Vegan,Heart Disease
+255.0,50.0,Female,West Bengal,Chennai,165.3,48.8,33.6,171.0,233.0,Yes,Yes,Weekly,Eggetarian,None
+256.0,68.0,Female,West Bengal,,,55.4,25.5,113.0,165.0,No,Occasionally,Never,Vegan,None
+,,Other,Maharashtra,Amritsar,160.4,64.0,23.6,97.0,227.0,No,Yes,Weekly,Eggetarian,Hypertension
+258.0,61.0,Other,Karnataka,,162.8,52.2,17.6,142.0,208.0,No,Yes,Weekly,Eggetarian,Heart Disease
+259.0,41.0,Female,Tamil Nadu,Ahmedabad,179.6,,21.0,161.0,212.0,Yes,Yes,Never,Vegan,
+260.0,32.0,Female,Karnataka,Mumbai,165.0,,,93.0,198.0,Yes,Occasionally,Daily,Vegetarian,Obesity
+261.0,76.0,Male,Tamil Nadu,Amritsar,163.2,56.7,21.1,94.0,,Yes,Occasionally,Rarely,Non-Vegetarian,None
+262.0,71.0,Female,Punjab,Chennai,165.8,45.5,21.6,138.0,182.0,Yes,Occasionally,Never,Non-Vegetarian,Diabetes
+263.0,49.0,Female,Tamil Nadu,Bangalore,163.4,72.3,30.3,119.0,179.0,Yes,Occasionally,Never,Vegan,Diabetes
+264.0,49.0,Other,,Pune,157.9,71.9,24.1,161.0,225.0,Yes,No,Never,Vegetarian,Obesity
+265.0,41.0,Female,West Bengal,Amritsar,,53.1,24.5,152.0,164.0,No,No,Never,Vegetarian,None
+266.0,58.0,Male,Delhi,Ahmedabad,157.4,,21.3,136.0,231.0,Yes,No,Weekly,Non-Vegetarian,Heart Disease
+267.0,69.0,,,,173.7,,28.7,115.0,,No,Yes,,Vegetarian,Diabetes
+268.0,66.0,Other,West Bengal,Kolkata,158.7,62.2,23.1,146.0,,No,No,Rarely,,Heart Disease
+,79.0,Other,Delhi,Mumbai,163.5,70.0,21.9,126.0,243.0,No,Yes,Rarely,Vegan,
+270.0,66.0,Female,Tamil Nadu,Delhi,172.0,94.4,17.7,96.0,194.0,No,Occasionally,Never,,Heart Disease
+271.0,75.0,,Tamil Nadu,Mumbai,162.2,64.6,,129.0,211.0,No,Yes,Never,Vegan,Diabetes
+272.0,69.0,Male,Punjab,Kolkata,171.3,57.3,21.8,128.0,164.0,Yes,,,Eggetarian,Heart Disease
+273.0,29.0,Male,Karnataka,Pune,,47.8,30.7,151.0,195.0,Yes,No,Rarely,Non-Vegetarian,Obesity
+274.0,79.0,Female,,Chennai,163.7,60.3,31.4,167.0,213.0,Yes,Occasionally,Never,Vegan,Hypertension
+275.0,56.0,Female,Karnataka,,165.8,67.4,19.1,,224.0,Yes,Occasionally,Daily,Vegetarian,Heart Disease
+276.0,19.0,Female,West Bengal,Ahmedabad,165.2,65.8,19.5,93.0,201.0,No,No,Rarely,Non-Vegetarian,Hypertension
+277.0,20.0,Other,Delhi,Chennai,148.5,90.9,22.9,171.0,237.0,No,Occasionally,,Vegan,Hypertension
+278.0,66.0,Male,West Bengal,Ahmedabad,177.0,72.5,20.7,114.0,206.0,No,Occasionally,Never,Non-Vegetarian,None
+279.0,54.0,Male,Maharashtra,Amritsar,156.5,63.0,,96.0,232.0,Yes,Occasionally,Weekly,Vegetarian,Obesity
+280.0,,,,Ahmedabad,168.4,54.4,22.7,117.0,215.0,Yes,,Daily,Eggetarian,
+281.0,73.0,Male,Karnataka,,165.1,69.0,25.1,158.0,299.0,Yes,Occasionally,Rarely,Eggetarian,
+282.0,34.0,,Punjab,Ahmedabad,175.0,51.4,28.1,,169.0,,,Daily,Vegan,Hypertension
+,76.0,Female,Delhi,Kolkata,186.9,67.7,19.7,,182.0,No,Yes,Rarely,Eggetarian,
+,66.0,,,Kolkata,,72.3,28.0,172.0,221.0,No,Occasionally,Never,Vegan,
+285.0,19.0,Male,Punjab,Delhi,158.5,61.8,21.1,100.0,174.0,Yes,No,Daily,Non-Vegetarian,Heart Disease
+286.0,19.0,Female,Tamil Nadu,,166.9,55.5,32.6,156.0,195.0,Yes,No,Weekly,Vegan,Heart Disease
+287.0,45.0,Other,West Bengal,Bangalore,153.9,,,176.0,222.0,No,No,Daily,Vegan,Asthma
+288.0,71.0,Other,Tamil Nadu,Amritsar,172.8,82.2,,96.0,247.0,No,Occasionally,Weekly,Vegan,Hypertension
+289.0,40.0,Male,Gujarat,Ahmedabad,173.4,71.0,20.1,112.0,206.0,No,Occasionally,Rarely,Eggetarian,Hypertension
+290.0,54.0,Other,Maharashtra,Ahmedabad,170.6,71.4,19.4,,236.0,No,Yes,Never,Vegan,
+291.0,49.0,Other,Gujarat,Bangalore,167.4,41.6,,,282.0,Yes,No,Never,Vegetarian,Diabetes
+,50.0,Male,Delhi,Mumbai,,85.7,23.9,123.0,204.0,No,,Weekly,Vegan,None
+293.0,18.0,Female,Karnataka,Ahmedabad,153.4,58.0,27.7,108.0,210.0,No,Yes,Rarely,,Heart Disease
+294.0,36.0,Female,Delhi,Delhi,165.7,60.7,32.8,147.0,238.0,No,No,Never,Vegetarian,Asthma
+295.0,79.0,Female,,Chennai,157.6,49.0,20.9,98.0,157.0,No,,Rarely,Non-Vegetarian,Diabetes
+296.0,,Male,,Chennai,173.9,,19.1,137.0,165.0,Yes,Occasionally,Weekly,Non-Vegetarian,Hypertension
+297.0,70.0,Other,,Pune,146.7,82.4,24.8,171.0,265.0,Yes,Yes,Weekly,Non-Vegetarian,None
+298.0,61.0,Female,Gujarat,Pune,164.7,84.3,28.6,130.0,210.0,Yes,Yes,Daily,,Asthma
+299.0,43.0,Female,Gujarat,,168.4,62.5,20.2,137.0,164.0,,Yes,Never,Vegetarian,Obesity
+300.0,49.0,Male,West Bengal,Chennai,155.5,54.8,24.1,134.0,299.0,Yes,Yes,Never,Eggetarian,Hypertension
+301.0,23.0,Female,Gujarat,Kolkata,158.7,59.3,29.5,,280.0,Yes,No,Daily,Vegetarian,Hypertension
+302.0,49.0,Male,West Bengal,Delhi,165.2,59.8,17.5,167.0,251.0,No,Yes,Weekly,Vegan,Obesity
+303.0,72.0,Other,Delhi,Bangalore,174.6,47.0,24.9,114.0,,No,Yes,Weekly,,
+304.0,21.0,Male,Tamil Nadu,Pune,154.7,,21.8,108.0,163.0,No,Occasionally,Weekly,Eggetarian,Heart Disease
+305.0,72.0,Male,Karnataka,Kolkata,156.4,,24.5,,185.0,No,Occasionally,Weekly,Vegetarian,Diabetes
+306.0,28.0,Male,Punjab,Kolkata,176.3,80.3,26.8,168.0,254.0,Yes,Occasionally,Rarely,Non-Vegetarian,Diabetes
+307.0,73.0,Male,Karnataka,,162.3,65.2,,169.0,231.0,No,No,,Vegetarian,Hypertension
+308.0,76.0,Other,Delhi,Kolkata,157.2,41.4,20.0,116.0,216.0,Yes,,Never,Eggetarian,
+309.0,34.0,Other,Punjab,Amritsar,172.3,70.3,22.0,163.0,159.0,No,,Weekly,Vegetarian,
+310.0,55.0,Female,Gujarat,Delhi,160.1,61.2,29.7,152.0,198.0,No,Occasionally,Weekly,Vegetarian,Obesity
+311.0,41.0,Other,Maharashtra,Chennai,175.3,85.6,25.3,157.0,260.0,No,Yes,Weekly,Non-Vegetarian,Diabetes
+312.0,22.0,Other,Delhi,Ahmedabad,158.4,86.4,27.4,108.0,214.0,Yes,,,Vegan,Hypertension
+313.0,69.0,Female,Delhi,,163.4,87.0,25.0,117.0,,No,No,Never,Vegetarian,
+314.0,51.0,Other,Tamil Nadu,Chennai,174.4,56.6,,174.0,176.0,Yes,No,,Eggetarian,Hypertension
+,23.0,Male,,Chennai,162.7,94.8,22.4,167.0,262.0,Yes,Yes,Rarely,Vegetarian,Asthma
+316.0,39.0,Male,Delhi,Mumbai,172.6,,20.9,122.0,282.0,No,Occasionally,Daily,,Asthma
+,28.0,Female,Delhi,Amritsar,164.3,89.4,27.1,99.0,220.0,Yes,Yes,,Vegan,Hypertension
+318.0,65.0,Female,Gujarat,Bangalore,,57.5,,172.0,232.0,Yes,No,Daily,Non-Vegetarian,None
+319.0,33.0,Female,,,180.7,60.5,,119.0,206.0,,No,Never,Eggetarian,Diabetes
+320.0,50.0,Male,Punjab,,151.7,69.1,21.7,111.0,,No,Yes,,Non-Vegetarian,Heart Disease
+321.0,26.0,Other,West Bengal,Bangalore,170.2,,23.3,92.0,242.0,No,Yes,Daily,Non-Vegetarian,Hypertension
+,77.0,Male,West Bengal,Kolkata,156.8,83.8,30.5,171.0,164.0,No,,Daily,Non-Vegetarian,Asthma
+323.0,76.0,Female,,Chennai,166.9,61.5,26.3,164.0,260.0,No,No,Rarely,Vegetarian,Hypertension
+324.0,23.0,Other,West Bengal,Ahmedabad,165.7,82.5,18.7,137.0,250.0,,Occasionally,Never,Vegan,Diabetes
+325.0,33.0,Other,Tamil Nadu,Kolkata,154.4,76.0,23.6,91.0,268.0,Yes,Yes,,Vegetarian,Obesity
+,46.0,Male,Maharashtra,Delhi,,61.8,23.0,165.0,225.0,No,No,,Eggetarian,Asthma
+327.0,20.0,Female,,Kolkata,167.0,74.8,19.3,143.0,169.0,No,No,Rarely,Vegan,Heart Disease
+328.0,37.0,Male,Gujarat,Mumbai,162.2,57.9,23.6,95.0,280.0,Yes,No,Rarely,Non-Vegetarian,Heart Disease
+329.0,77.0,Other,West Bengal,Amritsar,160.6,100.3,22.8,129.0,222.0,,Yes,Daily,Vegan,Heart Disease
+330.0,76.0,Male,Karnataka,Chennai,,25.0,22.6,91.0,271.0,Yes,,Daily,Eggetarian,Obesity
+331.0,53.0,Male,Gujarat,Kolkata,169.1,75.1,22.4,162.0,190.0,No,Occasionally,Never,Vegetarian,None
+332.0,36.0,Female,Tamil Nadu,Amritsar,163.8,,29.9,91.0,,No,No,,Vegetarian,Asthma
+333.0,43.0,Female,,Pune,136.7,61.6,22.5,,172.0,Yes,Yes,Weekly,Non-Vegetarian,Obesity
+334.0,20.0,Other,Tamil Nadu,Pune,165.2,63.7,24.2,,172.0,No,No,Rarely,Vegetarian,Asthma
+335.0,36.0,,Tamil Nadu,Amritsar,150.6,87.6,23.8,161.0,293.0,Yes,No,Daily,Vegetarian,Obesity
+336.0,37.0,Male,Tamil Nadu,Amritsar,162.9,54.6,22.0,,158.0,No,Occasionally,Weekly,Eggetarian,Obesity
+,,Male,Punjab,Mumbai,,84.6,24.3,95.0,162.0,No,Yes,Rarely,Vegan,None
+338.0,24.0,Other,,Delhi,150.8,47.3,,108.0,,Yes,,Weekly,Vegetarian,Asthma
+339.0,69.0,Other,Tamil Nadu,Chennai,177.4,85.2,24.3,116.0,213.0,No,No,Weekly,Eggetarian,Obesity
+340.0,58.0,Female,Karnataka,Bangalore,161.8,57.9,20.6,,201.0,No,No,Daily,Eggetarian,None
+341.0,50.0,Female,Maharashtra,Mumbai,161.0,66.1,23.2,122.0,187.0,Yes,Occasionally,Rarely,,
+342.0,57.0,Female,Delhi,Delhi,169.8,60.0,27.0,129.0,249.0,No,,Weekly,Eggetarian,Diabetes
+343.0,56.0,Male,Maharashtra,Amritsar,161.3,,23.3,121.0,295.0,Yes,Occasionally,Never,Non-Vegetarian,Obesity
+344.0,35.0,Male,Tamil Nadu,Bangalore,186.0,81.3,24.6,158.0,200.0,No,Occasionally,Rarely,Vegetarian,Heart Disease
+345.0,,Female,Karnataka,,162.3,71.7,24.7,106.0,286.0,Yes,Occasionally,Never,Non-Vegetarian,None
+346.0,18.0,Male,Gujarat,Amritsar,168.7,47.7,25.7,97.0,290.0,No,Occasionally,Daily,Eggetarian,None
+347.0,28.0,Female,Karnataka,Pune,174.7,54.3,26.2,,204.0,Yes,No,Never,Vegan,Obesity
+348.0,45.0,Other,,Pune,181.0,49.6,23.3,,258.0,Yes,Occasionally,Rarely,,None
+349.0,74.0,Female,Karnataka,Bangalore,157.6,31.3,20.4,98.0,193.0,No,No,Weekly,Vegetarian,Hypertension
+350.0,42.0,,West Bengal,Mumbai,,83.9,19.1,176.0,259.0,,No,Weekly,Vegetarian,None
+351.0,67.0,Male,,Pune,177.7,60.1,28.1,124.0,277.0,Yes,Yes,Rarely,Vegan,Diabetes
+352.0,40.0,Female,Tamil Nadu,Chennai,,59.9,27.1,160.0,254.0,No,No,Weekly,Non-Vegetarian,Diabetes
+353.0,,Male,Punjab,Amritsar,175.8,87.4,26.6,168.0,159.0,Yes,No,,Vegetarian,Heart Disease
+354.0,47.0,Other,West Bengal,Ahmedabad,151.3,57.9,27.2,142.0,249.0,,Occasionally,Weekly,Eggetarian,Hypertension
+355.0,59.0,Other,Karnataka,Kolkata,180.5,52.4,23.4,143.0,297.0,No,No,Weekly,Vegetarian,Diabetes
+356.0,52.0,Other,Delhi,Bangalore,,61.6,21.5,,258.0,,Occasionally,Never,Non-Vegetarian,Obesity
+357.0,24.0,Male,,Bangalore,166.9,48.0,20.1,114.0,257.0,Yes,Occasionally,Never,,Asthma
+358.0,,Male,Karnataka,Pune,163.5,70.2,19.6,156.0,289.0,No,Occasionally,Never,Eggetarian,Asthma
+359.0,,Male,Punjab,Mumbai,156.2,59.4,,,295.0,No,Yes,Daily,,Asthma
+360.0,43.0,Male,Gujarat,Amritsar,150.9,57.4,22.0,144.0,243.0,No,,Never,Eggetarian,
+,65.0,Other,Tamil Nadu,Chennai,147.6,56.1,,135.0,212.0,No,,Never,Non-Vegetarian,None
+,,Other,Delhi,,166.2,,,113.0,233.0,No,,Daily,Non-Vegetarian,Obesity
+363.0,69.0,Female,,Delhi,149.7,66.3,21.3,135.0,174.0,,Occasionally,Weekly,Eggetarian,None
+364.0,77.0,Female,Karnataka,Delhi,153.7,57.2,19.6,111.0,161.0,No,Occasionally,Never,Eggetarian,Asthma
+365.0,66.0,Male,Gujarat,Ahmedabad,162.8,59.6,21.6,100.0,298.0,No,Yes,,Non-Vegetarian,Heart Disease
+366.0,,Other,West Bengal,Pune,138.6,63.8,29.7,137.0,174.0,Yes,No,Never,Non-Vegetarian,Heart Disease
+367.0,18.0,,Maharashtra,Pune,172.8,62.3,19.7,,,Yes,Yes,Never,,None
+368.0,65.0,Other,Delhi,Pune,140.9,65.5,32.5,128.0,213.0,,No,Daily,Vegan,Asthma
+369.0,79.0,Female,Karnataka,,164.2,54.8,20.6,124.0,275.0,No,Yes,Rarely,Non-Vegetarian,Obesity
+370.0,,Female,Tamil Nadu,,165.2,80.1,27.0,138.0,199.0,Yes,No,,Eggetarian,Heart Disease
+371.0,22.0,Other,Punjab,Mumbai,170.4,66.5,23.4,135.0,238.0,Yes,Yes,Weekly,Vegan,None
+372.0,54.0,,West Bengal,Ahmedabad,164.6,,,127.0,,Yes,Occasionally,Rarely,Non-Vegetarian,
+373.0,49.0,Other,Karnataka,Ahmedabad,185.2,70.2,18.9,,265.0,Yes,Yes,Never,Eggetarian,Asthma
+374.0,76.0,Female,Tamil Nadu,Mumbai,,63.9,23.6,143.0,245.0,No,Yes,Daily,Vegetarian,Hypertension
+375.0,72.0,Other,Punjab,Pune,175.5,39.0,19.4,126.0,163.0,No,Occasionally,Rarely,Vegan,
+376.0,,Other,Punjab,Chennai,157.8,70.1,17.3,129.0,150.0,No,Occasionally,Rarely,Eggetarian,Asthma
+377.0,58.0,Male,Karnataka,Mumbai,166.2,49.7,24.5,123.0,174.0,Yes,No,Weekly,Vegetarian,Obesity
+378.0,52.0,Male,West Bengal,Delhi,180.5,79.0,21.5,168.0,,Yes,No,Daily,Eggetarian,
+,36.0,,Gujarat,Bangalore,162.6,61.4,30.7,106.0,218.0,Yes,No,Rarely,Non-Vegetarian,Diabetes
+380.0,65.0,Other,Gujarat,Amritsar,166.9,76.7,28.0,122.0,282.0,,Yes,Daily,Non-Vegetarian,Diabetes
+381.0,33.0,,Punjab,Bangalore,174.8,55.5,30.8,136.0,254.0,Yes,No,Never,Vegetarian,Obesity
+,20.0,Male,Gujarat,Kolkata,,66.0,21.3,141.0,296.0,Yes,Yes,Weekly,Non-Vegetarian,Obesity
+383.0,37.0,Female,Maharashtra,Kolkata,143.4,83.2,24.5,169.0,172.0,No,,Never,,Hypertension
+384.0,41.0,Male,,Ahmedabad,167.6,61.0,,98.0,158.0,No,No,Daily,Vegetarian,Hypertension
+385.0,71.0,Male,,,174.9,56.1,22.9,122.0,267.0,Yes,No,Never,Eggetarian,
+386.0,73.0,Male,Tamil Nadu,Bangalore,151.5,74.8,24.4,149.0,243.0,No,Yes,Weekly,Eggetarian,Heart Disease
+387.0,50.0,Male,Gujarat,Chennai,171.7,74.5,24.6,166.0,293.0,Yes,Occasionally,Daily,Eggetarian,Hypertension
+388.0,41.0,Other,West Bengal,Pune,,56.8,,,182.0,Yes,Occasionally,,Non-Vegetarian,Asthma
+389.0,69.0,Other,Punjab,Delhi,142.3,,24.3,147.0,,No,Yes,Never,Non-Vegetarian,None
+,28.0,Male,West Bengal,Kolkata,155.6,55.8,13.1,174.0,163.0,Yes,No,Weekly,Eggetarian,Diabetes
+391.0,66.0,Female,Maharashtra,Chennai,161.0,75.2,25.0,158.0,150.0,No,Yes,Rarely,Vegan,Heart Disease
+392.0,25.0,Female,Tamil Nadu,Delhi,163.2,53.4,25.9,99.0,239.0,Yes,Yes,Weekly,Eggetarian,Asthma
+393.0,53.0,Female,Karnataka,Delhi,157.6,64.8,29.4,95.0,238.0,Yes,No,Daily,Eggetarian,Obesity
+394.0,55.0,Female,West Bengal,Pune,157.0,55.1,25.5,102.0,293.0,No,,Daily,Vegetarian,None
+395.0,57.0,Male,Punjab,Amritsar,,36.0,23.5,,239.0,Yes,Yes,Never,Eggetarian,Diabetes
+396.0,37.0,Other,Maharashtra,Ahmedabad,163.9,54.9,28.4,109.0,163.0,Yes,Occasionally,Weekly,Non-Vegetarian,None
+397.0,79.0,Female,Delhi,Bangalore,158.0,75.1,14.6,146.0,260.0,Yes,Occasionally,,Vegetarian,Asthma
+398.0,,Male,Maharashtra,Pune,164.6,29.4,21.9,135.0,292.0,No,No,Weekly,Vegan,Hypertension
+399.0,65.0,Female,Maharashtra,Chennai,170.4,68.8,20.9,97.0,232.0,Yes,Yes,Daily,Vegetarian,Diabetes
+400.0,79.0,Female,Tamil Nadu,Ahmedabad,,47.2,23.9,99.0,221.0,,,Never,Vegan,None
+401.0,42.0,Male,Karnataka,Chennai,162.9,74.1,,162.0,279.0,Yes,Occasionally,Weekly,Vegetarian,
+402.0,52.0,Other,Delhi,Ahmedabad,158.5,75.7,29.3,,,No,Occasionally,Weekly,Vegetarian,
+403.0,42.0,Other,Gujarat,Amritsar,158.4,62.4,23.0,,,No,No,Rarely,Vegan,Asthma
+404.0,46.0,,Gujarat,Kolkata,159.0,62.5,25.3,,248.0,No,Occasionally,,Non-Vegetarian,Asthma
+405.0,35.0,Other,West Bengal,,168.4,,24.9,99.0,221.0,No,No,Never,Non-Vegetarian,Diabetes
+406.0,,Male,,Pune,155.1,44.8,29.0,114.0,172.0,No,Yes,Rarely,Non-Vegetarian,
+407.0,,Male,Tamil Nadu,Ahmedabad,168.9,90.5,16.6,138.0,217.0,Yes,No,,,Heart Disease
+408.0,,Male,Tamil Nadu,Ahmedabad,179.1,52.0,24.4,138.0,291.0,,Occasionally,Rarely,Eggetarian,Obesity
+409.0,71.0,Other,Gujarat,Delhi,168.3,88.5,28.6,178.0,266.0,No,,,Vegetarian,Diabetes
+410.0,52.0,Male,West Bengal,Delhi,161.3,52.1,23.6,100.0,255.0,Yes,No,Rarely,Eggetarian,Obesity
+,,Female,West Bengal,Mumbai,152.0,72.9,20.2,151.0,242.0,No,Yes,Weekly,Eggetarian,
+412.0,78.0,Other,West Bengal,Chennai,,,21.6,125.0,214.0,,No,Daily,Non-Vegetarian,None
+413.0,58.0,Other,Delhi,Delhi,153.3,72.9,22.4,128.0,217.0,No,Occasionally,Daily,Eggetarian,Heart Disease
+414.0,53.0,Other,Karnataka,Mumbai,,60.1,21.1,142.0,277.0,Yes,Occasionally,Daily,Vegetarian,None
+415.0,50.0,,Delhi,Kolkata,171.4,60.3,23.4,179.0,212.0,Yes,Yes,,,Asthma
+416.0,21.0,Female,Punjab,Kolkata,162.6,74.2,,167.0,262.0,No,Yes,Daily,Non-Vegetarian,Obesity
+417.0,50.0,Other,Punjab,Delhi,162.4,58.0,21.6,145.0,239.0,No,,Daily,Vegan,Hypertension
+418.0,31.0,Other,Karnataka,Chennai,146.6,43.6,22.0,,230.0,,No,,Vegetarian,Asthma
+419.0,,Male,Gujarat,Ahmedabad,168.3,76.4,25.8,145.0,252.0,Yes,Occasionally,Rarely,Eggetarian,Asthma
+420.0,65.0,,Karnataka,,171.2,47.8,23.3,93.0,265.0,Yes,Yes,Never,Vegetarian,Obesity
+421.0,37.0,,Tamil Nadu,Amritsar,154.1,72.7,18.7,,,,Yes,Weekly,Vegetarian,Diabetes
+422.0,73.0,Female,Punjab,Chennai,163.4,79.6,,101.0,,Yes,Yes,Weekly,Vegetarian,Asthma
+423.0,25.0,Female,Maharashtra,Amritsar,165.4,,23.6,124.0,296.0,Yes,No,Rarely,Vegan,Heart Disease
+424.0,,Female,Maharashtra,Pune,170.8,82.7,,166.0,,,Yes,Rarely,Eggetarian,Asthma
+425.0,20.0,Other,,Kolkata,165.0,72.2,20.1,141.0,160.0,,Yes,Daily,Non-Vegetarian,Heart Disease
+426.0,34.0,Other,Tamil Nadu,Delhi,148.7,54.6,,120.0,164.0,,No,Never,Vegetarian,None
+,50.0,Female,Delhi,Delhi,159.7,86.0,23.6,176.0,159.0,,No,Daily,Eggetarian,
+428.0,65.0,Female,Tamil Nadu,Amritsar,167.2,47.9,19.6,157.0,190.0,No,Yes,Rarely,Eggetarian,Heart Disease
+429.0,29.0,Other,Maharashtra,Ahmedabad,173.4,59.3,18.8,141.0,222.0,Yes,Yes,,,Asthma
+430.0,76.0,Female,Maharashtra,Amritsar,158.8,,31.7,169.0,201.0,Yes,No,Weekly,Vegetarian,Diabetes
+431.0,68.0,Male,Punjab,Pune,186.9,74.1,23.4,96.0,277.0,No,Occasionally,Weekly,Vegan,Diabetes
+432.0,39.0,Female,Tamil Nadu,Ahmedabad,146.1,81.7,27.7,,177.0,Yes,No,Daily,Eggetarian,Heart Disease
+433.0,72.0,,Tamil Nadu,Pune,159.4,80.8,17.2,164.0,214.0,Yes,Occasionally,Never,Non-Vegetarian,
+434.0,39.0,Male,Maharashtra,,164.2,68.4,34.6,145.0,166.0,No,Yes,,Vegan,Hypertension
+435.0,63.0,Male,,Kolkata,163.0,60.8,27.6,147.0,244.0,,Yes,Daily,Eggetarian,Hypertension
+436.0,,,Gujarat,,152.7,37.6,23.0,153.0,287.0,No,Occasionally,Never,Vegetarian,Diabetes
+437.0,55.0,Other,West Bengal,,169.5,45.3,,101.0,,Yes,No,Never,,
+438.0,55.0,Male,Gujarat,Bangalore,168.7,,26.9,96.0,187.0,Yes,Yes,Never,Vegan,Obesity
+439.0,62.0,Male,Tamil Nadu,Mumbai,,37.5,26.7,144.0,,No,Occasionally,Weekly,Vegan,Hypertension
+,68.0,Other,Gujarat,Kolkata,168.3,53.2,24.7,,253.0,,No,Daily,Vegetarian,Asthma
+441.0,71.0,Female,Maharashtra,Ahmedabad,160.8,82.2,24.0,179.0,202.0,No,Occasionally,,Vegetarian,None
+442.0,25.0,Male,Maharashtra,Bangalore,,68.1,26.2,162.0,268.0,Yes,No,,Non-Vegetarian,Diabetes
+443.0,44.0,Other,,Ahmedabad,157.8,78.9,17.0,166.0,223.0,No,No,,,None
+444.0,44.0,Female,Tamil Nadu,Amritsar,166.6,73.1,22.5,144.0,203.0,Yes,No,Daily,Non-Vegetarian,Hypertension
+445.0,51.0,Male,,Chennai,166.6,87.0,17.4,125.0,169.0,No,No,,Vegan,Heart Disease
+446.0,38.0,Female,West Bengal,Delhi,165.4,69.4,26.4,178.0,228.0,,Occasionally,Daily,Vegan,Diabetes
+447.0,,Other,Punjab,Ahmedabad,170.5,75.0,21.3,113.0,180.0,Yes,Occasionally,Daily,Eggetarian,Hypertension
+,50.0,,Tamil Nadu,Pune,159.2,,17.7,133.0,284.0,No,Occasionally,Never,,Asthma
+449.0,45.0,Female,Delhi,Ahmedabad,165.3,73.8,20.8,,207.0,Yes,Occasionally,Never,Non-Vegetarian,Diabetes
+450.0,64.0,Male,Gujarat,Chennai,170.7,59.1,24.6,91.0,254.0,,Occasionally,,Vegetarian,Diabetes
+,50.0,Female,Tamil Nadu,Kolkata,164.2,58.2,23.2,102.0,159.0,No,No,Rarely,Vegetarian,Obesity
+452.0,22.0,Other,,Delhi,152.6,78.4,19.3,120.0,159.0,,Yes,Rarely,Eggetarian,Heart Disease
+453.0,77.0,Other,Punjab,Amritsar,155.4,78.5,17.2,117.0,188.0,Yes,Yes,,Vegan,Diabetes
+454.0,78.0,Male,,Bangalore,173.3,90.3,24.3,149.0,186.0,Yes,Occasionally,Never,Non-Vegetarian,Heart Disease
+455.0,65.0,Female,Maharashtra,Amritsar,178.9,89.3,21.7,116.0,268.0,No,Occasionally,Never,,Hypertension
+456.0,36.0,Male,West Bengal,Chennai,176.8,78.8,23.0,104.0,216.0,No,Yes,Rarely,,Asthma
+457.0,21.0,Male,Gujarat,Delhi,167.3,39.2,23.4,168.0,192.0,No,No,Weekly,,Asthma
+458.0,52.0,Female,Tamil Nadu,Ahmedabad,153.0,92.4,25.7,122.0,201.0,No,Occasionally,Rarely,,Diabetes
+459.0,,Female,Karnataka,Kolkata,164.9,78.8,,109.0,250.0,No,No,Never,Vegan,Diabetes
+460.0,34.0,Female,Gujarat,Mumbai,,53.5,24.6,131.0,,Yes,Yes,,Eggetarian,Hypertension
+461.0,61.0,Other,Maharashtra,,171.2,75.9,22.7,101.0,225.0,Yes,Yes,Weekly,Eggetarian,Obesity
+,45.0,Male,West Bengal,Mumbai,162.9,49.4,24.1,162.0,217.0,No,Occasionally,Daily,Vegetarian,Obesity
+463.0,47.0,Male,Delhi,Pune,171.3,74.3,22.6,112.0,286.0,Yes,No,Daily,Eggetarian,Obesity
+464.0,46.0,Other,Punjab,Kolkata,,45.3,17.4,161.0,255.0,Yes,Occasionally,,Eggetarian,Heart Disease
+465.0,63.0,Female,Gujarat,Delhi,158.0,52.9,28.4,103.0,274.0,Yes,Yes,Daily,Vegan,Obesity
+466.0,70.0,Other,Gujarat,Mumbai,154.2,75.6,27.6,114.0,241.0,Yes,No,Daily,Eggetarian,Asthma
+467.0,23.0,Other,Delhi,Bangalore,169.7,81.1,32.0,166.0,172.0,No,Occasionally,Rarely,,Heart Disease
+468.0,52.0,,Gujarat,Delhi,172.1,69.9,33.1,174.0,258.0,No,Occasionally,Never,Vegan,Hypertension
+469.0,77.0,,Maharashtra,Bangalore,163.5,60.7,19.3,120.0,210.0,Yes,Occasionally,Daily,Vegetarian,Asthma
+470.0,,Other,Maharashtra,Kolkata,,33.3,22.7,143.0,193.0,Yes,Yes,Never,Vegetarian,Asthma
+471.0,54.0,Male,Delhi,Bangalore,164.8,61.9,34.0,,165.0,No,Occasionally,Rarely,Non-Vegetarian,None
+472.0,41.0,Male,Punjab,Mumbai,160.1,73.0,23.8,102.0,171.0,Yes,No,Never,Eggetarian,Hypertension
+473.0,46.0,Male,,Delhi,157.0,60.2,25.0,117.0,,,Occasionally,Never,Vegan,Hypertension
+474.0,66.0,Female,,Ahmedabad,168.4,64.7,17.9,132.0,211.0,Yes,,,Non-Vegetarian,None
+475.0,63.0,Male,Tamil Nadu,Chennai,,,24.6,178.0,256.0,No,Occasionally,Never,Vegetarian,Heart Disease
+476.0,70.0,Male,Gujarat,Mumbai,149.3,60.2,31.7,136.0,220.0,No,Yes,Daily,Vegetarian,Obesity
+477.0,48.0,Female,Karnataka,Mumbai,151.6,66.1,,160.0,239.0,Yes,Yes,Daily,,
+478.0,52.0,Male,Delhi,Ahmedabad,149.0,60.9,,127.0,221.0,Yes,No,Daily,Non-Vegetarian,
+,77.0,Other,Delhi,Delhi,167.5,86.6,22.4,156.0,219.0,Yes,No,Daily,Non-Vegetarian,Obesity
+480.0,50.0,Other,Punjab,Delhi,166.5,31.9,19.5,151.0,179.0,Yes,,,Vegan,Obesity
+481.0,69.0,Male,Karnataka,Amritsar,166.0,56.8,20.6,128.0,252.0,Yes,Yes,Daily,Vegan,None
+,78.0,Female,Maharashtra,Kolkata,170.9,51.9,16.4,126.0,181.0,Yes,Yes,Never,Non-Vegetarian,Hypertension
+,38.0,Other,Karnataka,Bangalore,176.9,,23.7,175.0,235.0,No,No,Weekly,Vegetarian,Heart Disease
+484.0,49.0,Female,Gujarat,Kolkata,159.1,66.2,30.0,97.0,206.0,No,No,Never,Eggetarian,Asthma
+485.0,40.0,Female,,Ahmedabad,169.1,89.3,25.4,170.0,258.0,Yes,Occasionally,Daily,Vegetarian,Obesity
+486.0,50.0,Other,West Bengal,Kolkata,,94.3,29.5,141.0,158.0,No,Yes,Weekly,Vegan,None
+487.0,,Female,West Bengal,,178.8,53.4,28.3,122.0,180.0,Yes,No,Rarely,,Heart Disease
+488.0,35.0,Other,West Bengal,Delhi,152.6,65.0,21.8,170.0,220.0,Yes,,Never,Non-Vegetarian,Heart Disease
+489.0,42.0,Female,Delhi,Bangalore,157.9,67.9,21.0,131.0,286.0,No,Yes,Daily,Eggetarian,Heart Disease
+490.0,,Other,Karnataka,Kolkata,159.0,53.0,21.1,165.0,162.0,No,Yes,Daily,Non-Vegetarian,None
+491.0,,Male,West Bengal,Mumbai,149.7,74.4,17.1,116.0,280.0,Yes,No,Daily,Eggetarian,Asthma
+492.0,71.0,Other,Tamil Nadu,Pune,165.3,61.4,24.1,97.0,184.0,Yes,Occasionally,Rarely,Vegetarian,Obesity
+493.0,75.0,Other,Punjab,Amritsar,167.1,,12.4,,170.0,No,No,Weekly,Vegetarian,Heart Disease
+494.0,20.0,Other,Tamil Nadu,Chennai,163.1,60.8,26.4,153.0,213.0,No,,Weekly,Non-Vegetarian,None
+495.0,57.0,Other,West Bengal,Mumbai,149.6,,24.3,109.0,,Yes,Yes,Daily,,Hypertension
+496.0,63.0,Female,Punjab,Delhi,184.8,80.5,25.9,,,Yes,Occasionally,Never,Vegan,None
+497.0,41.0,Male,Gujarat,Chennai,170.5,93.5,28.2,106.0,270.0,Yes,Occasionally,Daily,Vegan,None
+498.0,67.0,Other,Tamil Nadu,Pune,191.3,68.7,24.8,169.0,,No,Occasionally,Daily,Non-Vegetarian,None
+499.0,49.0,Female,,Pune,156.9,66.7,30.5,108.0,269.0,Yes,Occasionally,Never,Non-Vegetarian,Heart Disease
+500.0,64.0,Male,Karnataka,Bangalore,174.6,67.3,26.5,97.0,245.0,No,Occasionally,Daily,Vegetarian,None
+501.0,39.0,Male,Tamil Nadu,Chennai,172.8,82.7,21.0,127.0,,Yes,No,Rarely,Non-Vegetarian,Hypertension
+502.0,40.0,Male,West Bengal,,162.1,,23.0,127.0,258.0,No,Occasionally,Daily,Vegan,Heart Disease
+503.0,19.0,,Karnataka,Mumbai,179.1,63.3,15.0,142.0,246.0,No,Occasionally,Rarely,Vegetarian,Hypertension
+504.0,44.0,Other,Gujarat,,,68.8,,179.0,181.0,No,Yes,,Eggetarian,Diabetes
+505.0,59.0,Other,Maharashtra,Ahmedabad,161.4,74.8,22.5,120.0,232.0,No,Occasionally,Weekly,Vegan,
+506.0,19.0,Female,West Bengal,Ahmedabad,130.3,47.9,26.2,,267.0,Yes,Yes,Never,Vegan,Obesity
+507.0,43.0,Female,Gujarat,Chennai,169.1,83.2,21.0,,228.0,,No,Weekly,Vegetarian,Obesity
+,34.0,Female,Punjab,Ahmedabad,151.7,91.0,19.0,165.0,227.0,No,No,Daily,Eggetarian,Heart Disease
+,57.0,Male,Gujarat,Mumbai,159.5,,16.4,106.0,296.0,No,Occasionally,Daily,,Obesity
+510.0,50.0,Male,West Bengal,Bangalore,154.7,46.3,21.6,168.0,256.0,Yes,,Rarely,Non-Vegetarian,
+511.0,26.0,Other,Punjab,Chennai,161.3,35.4,31.8,162.0,275.0,Yes,Occasionally,,Vegan,None
+512.0,60.0,Male,West Bengal,Bangalore,169.4,75.6,25.1,128.0,164.0,Yes,No,Daily,Vegetarian,
+513.0,71.0,Male,Karnataka,Chennai,165.1,53.6,27.8,131.0,283.0,Yes,Occasionally,,Vegetarian,Asthma
+514.0,65.0,Male,Maharashtra,Bangalore,172.1,69.3,20.4,137.0,222.0,,Occasionally,Weekly,Vegetarian,Hypertension
+515.0,56.0,Female,West Bengal,,177.7,88.0,17.7,101.0,250.0,Yes,Yes,Rarely,Vegan,None
+516.0,46.0,Female,West Bengal,Bangalore,161.3,55.1,19.1,178.0,247.0,,Yes,Weekly,Eggetarian,Obesity
+517.0,59.0,Other,Karnataka,Ahmedabad,160.2,59.3,23.6,107.0,,No,,Rarely,Non-Vegetarian,None
+518.0,72.0,Male,Delhi,Pune,,69.2,16.0,168.0,241.0,No,Yes,Weekly,Vegetarian,
+519.0,43.0,Male,Karnataka,Bangalore,175.4,45.5,20.0,95.0,,Yes,Occasionally,Daily,Eggetarian,Asthma
+520.0,52.0,Other,Punjab,Chennai,172.4,53.6,21.7,132.0,222.0,No,No,Weekly,Non-Vegetarian,Obesity
+,67.0,Male,Karnataka,,155.5,65.4,,124.0,,No,,Weekly,,Asthma
+522.0,42.0,Male,Karnataka,Amritsar,169.2,,15.5,143.0,202.0,Yes,Yes,Rarely,,None
+523.0,41.0,Female,Maharashtra,Chennai,166.1,,25.2,151.0,227.0,No,Yes,Rarely,Non-Vegetarian,Obesity
+524.0,30.0,Other,Karnataka,Delhi,,106.5,24.2,158.0,241.0,Yes,No,Weekly,Eggetarian,Hypertension
+525.0,77.0,Other,West Bengal,Mumbai,,66.5,27.1,171.0,237.0,No,Yes,Rarely,Non-Vegetarian,None
+526.0,,Other,Maharashtra,,,,19.6,105.0,162.0,Yes,,Rarely,Vegetarian,Hypertension
+527.0,24.0,Other,Tamil Nadu,Pune,171.9,86.3,27.0,97.0,192.0,Yes,Occasionally,Rarely,Eggetarian,Obesity
+528.0,74.0,Female,Delhi,Amritsar,139.4,41.2,30.1,178.0,225.0,Yes,,Never,Vegan,Asthma
+529.0,53.0,Female,Maharashtra,Chennai,157.7,,25.0,179.0,200.0,,Occasionally,Rarely,Vegan,Diabetes
+530.0,62.0,Male,,Delhi,154.8,56.1,21.6,175.0,,No,,Never,Eggetarian,Heart Disease
+531.0,37.0,Male,,Ahmedabad,154.7,60.8,24.6,120.0,298.0,Yes,,Never,Vegan,Asthma
+532.0,18.0,Male,,Pune,157.5,55.7,21.4,99.0,271.0,Yes,Occasionally,Rarely,Non-Vegetarian,Hypertension
+533.0,25.0,Male,Maharashtra,Delhi,177.2,64.5,20.7,145.0,173.0,,Yes,,Vegetarian,None
+534.0,63.0,Female,Delhi,Ahmedabad,,69.1,26.7,165.0,175.0,,Yes,Rarely,Non-Vegetarian,Obesity
+535.0,33.0,Other,,Kolkata,162.5,81.0,23.4,159.0,,Yes,Yes,Daily,Eggetarian,
+,31.0,Female,Punjab,Kolkata,176.3,66.4,28.8,109.0,231.0,No,Yes,Weekly,Vegetarian,Diabetes
+537.0,29.0,Male,Gujarat,Pune,154.4,56.6,,94.0,249.0,No,No,Never,Eggetarian,Obesity
+538.0,68.0,Female,Gujarat,Bangalore,153.0,80.2,22.6,112.0,166.0,No,Yes,Never,Eggetarian,Hypertension
+539.0,40.0,Other,Maharashtra,,173.6,52.7,21.7,,217.0,Yes,No,Weekly,Eggetarian,Obesity
+540.0,32.0,Other,Karnataka,Amritsar,170.8,40.5,19.5,147.0,193.0,Yes,Yes,Weekly,Non-Vegetarian,Obesity
+541.0,45.0,,Punjab,Mumbai,,83.1,27.3,,,No,No,Rarely,Vegetarian,None
+,51.0,Female,Tamil Nadu,,153.6,82.1,32.7,169.0,272.0,Yes,No,,,Heart Disease
+543.0,19.0,Female,Karnataka,Ahmedabad,179.6,53.1,22.5,143.0,242.0,No,,Daily,Vegetarian,Hypertension
+544.0,49.0,Male,Karnataka,,147.8,59.0,21.3,135.0,223.0,No,Yes,Rarely,Non-Vegetarian,None
+545.0,40.0,Female,,Ahmedabad,159.0,51.2,21.0,111.0,,Yes,No,Weekly,Vegan,Heart Disease
+,39.0,,West Bengal,Ahmedabad,167.3,69.9,21.3,153.0,260.0,Yes,Occasionally,Never,Non-Vegetarian,None
+547.0,68.0,Female,Maharashtra,Delhi,183.0,,30.6,97.0,151.0,,Occasionally,Weekly,Non-Vegetarian,Heart Disease
+548.0,42.0,Other,Maharashtra,Delhi,168.8,75.5,21.1,109.0,,No,Yes,Weekly,Eggetarian,Heart Disease
+,75.0,Other,Maharashtra,Delhi,169.8,,21.7,140.0,,No,Occasionally,Weekly,Vegetarian,Heart Disease
+550.0,79.0,Male,Maharashtra,Mumbai,159.3,77.3,19.0,167.0,248.0,Yes,Occasionally,Rarely,Vegetarian,
+551.0,78.0,,Gujarat,Kolkata,170.7,65.0,25.2,,176.0,Yes,Occasionally,,Vegan,Obesity
+552.0,39.0,Other,Maharashtra,,166.1,81.3,23.7,126.0,238.0,Yes,Yes,Daily,Vegan,Heart Disease
+553.0,75.0,Other,Gujarat,,149.1,76.2,,139.0,295.0,No,Yes,Never,Eggetarian,Obesity
+554.0,75.0,Other,Gujarat,Mumbai,172.9,86.6,20.4,123.0,150.0,No,Occasionally,Weekly,Vegetarian,Hypertension
+555.0,39.0,Female,West Bengal,Delhi,174.7,58.1,30.1,164.0,,No,Yes,Daily,Vegan,Diabetes
+556.0,66.0,,Maharashtra,Chennai,173.0,38.9,24.1,122.0,280.0,Yes,No,Weekly,Vegan,Obesity
+557.0,69.0,Other,Delhi,Ahmedabad,165.3,80.7,24.4,120.0,190.0,Yes,Occasionally,Never,Vegetarian,Diabetes
+558.0,,Female,,Amritsar,155.4,70.2,24.4,143.0,200.0,No,Yes,Weekly,Non-Vegetarian,Heart Disease
+559.0,23.0,Female,Karnataka,,141.9,60.6,29.6,133.0,164.0,Yes,,Daily,Vegan,Diabetes
+560.0,32.0,,Gujarat,,166.6,61.4,19.8,123.0,157.0,Yes,Occasionally,Weekly,,Diabetes
+561.0,71.0,Other,,Ahmedabad,175.8,103.3,22.4,160.0,187.0,Yes,Yes,Daily,Vegan,Heart Disease
+562.0,60.0,Other,Punjab,Ahmedabad,175.0,55.4,23.3,151.0,263.0,Yes,Occasionally,Never,Eggetarian,Obesity
+,77.0,Female,Tamil Nadu,Delhi,173.2,52.2,17.1,112.0,,No,Yes,Weekly,Vegan,Heart Disease
+564.0,54.0,Other,Punjab,Kolkata,164.3,66.3,20.3,,205.0,Yes,No,Daily,Vegetarian,Hypertension
+565.0,50.0,Male,Delhi,Bangalore,175.9,82.7,28.2,145.0,252.0,No,Occasionally,Never,Vegan,
+566.0,25.0,Male,Punjab,Kolkata,174.2,99.2,27.0,96.0,287.0,No,No,Weekly,Eggetarian,None
+567.0,70.0,Male,,Delhi,160.8,74.9,27.7,178.0,251.0,,Occasionally,Never,Eggetarian,Heart Disease
+568.0,77.0,Other,Karnataka,Ahmedabad,171.8,45.9,21.6,150.0,227.0,No,Yes,Daily,Vegan,Heart Disease
+569.0,61.0,,Gujarat,Amritsar,,,22.1,92.0,232.0,No,No,Weekly,Vegan,Diabetes
+570.0,61.0,Other,Maharashtra,Pune,170.4,64.7,16.8,127.0,179.0,Yes,Yes,Weekly,Eggetarian,Hypertension
+,22.0,,West Bengal,Amritsar,152.0,52.4,,173.0,154.0,No,Occasionally,Weekly,Eggetarian,
+572.0,,Other,Delhi,Amritsar,152.8,48.8,,,268.0,No,Occasionally,Never,Non-Vegetarian,Obesity
+573.0,21.0,Male,Gujarat,,175.6,77.5,28.3,133.0,180.0,No,Occasionally,Never,Non-Vegetarian,Heart Disease
+574.0,23.0,Female,Delhi,Kolkata,174.4,68.6,30.4,119.0,172.0,No,,Daily,Eggetarian,Heart Disease
+575.0,62.0,Male,Maharashtra,Pune,171.3,70.2,25.7,106.0,197.0,No,Occasionally,Rarely,Vegan,Diabetes
+576.0,49.0,Other,Punjab,Mumbai,165.9,84.3,30.2,148.0,258.0,No,No,,Vegetarian,Heart Disease
+577.0,69.0,Male,Punjab,Chennai,141.1,,23.2,99.0,189.0,No,Occasionally,Weekly,Vegan,Obesity
+578.0,47.0,Other,West Bengal,Ahmedabad,,85.5,16.9,,155.0,No,Yes,Daily,Vegan,Asthma
+579.0,64.0,Other,Maharashtra,,,57.2,27.4,,187.0,Yes,No,Weekly,Non-Vegetarian,None
+580.0,52.0,Male,Gujarat,Mumbai,159.7,97.5,,134.0,249.0,Yes,Yes,Never,Non-Vegetarian,None
+581.0,72.0,Other,West Bengal,Chennai,157.9,74.0,,148.0,176.0,Yes,Occasionally,Never,Non-Vegetarian,None
+582.0,57.0,Female,Maharashtra,Delhi,179.4,,27.8,151.0,218.0,No,Yes,Weekly,Eggetarian,Asthma
+583.0,69.0,,Tamil Nadu,Amritsar,164.4,34.6,25.3,148.0,206.0,No,No,Weekly,Eggetarian,Heart Disease
+584.0,33.0,Female,Karnataka,Bangalore,169.5,77.1,33.1,138.0,166.0,No,No,Never,Vegan,Diabetes
+585.0,30.0,Female,West Bengal,,172.7,59.4,16.1,152.0,220.0,Yes,No,Weekly,Vegan,Hypertension
+586.0,67.0,Other,West Bengal,Pune,155.0,62.7,,176.0,196.0,Yes,,Never,Vegetarian,Heart Disease
+587.0,77.0,Male,Gujarat,Pune,166.9,76.5,24.1,121.0,228.0,Yes,No,Rarely,Vegan,Asthma
+,59.0,Female,Delhi,Bangalore,178.2,80.2,18.6,99.0,259.0,No,Yes,Rarely,Vegan,Obesity
+589.0,,Male,Tamil Nadu,Mumbai,183.2,83.4,,100.0,162.0,Yes,Occasionally,Weekly,Non-Vegetarian,
+590.0,36.0,Female,,Chennai,165.4,47.4,20.6,159.0,288.0,,Occasionally,Weekly,Non-Vegetarian,None
+591.0,34.0,Other,Maharashtra,Delhi,162.6,86.4,19.6,151.0,273.0,No,,Weekly,Non-Vegetarian,Heart Disease
+592.0,,Other,Maharashtra,Pune,167.7,56.3,23.6,136.0,258.0,Yes,No,Never,Non-Vegetarian,None
+593.0,36.0,Female,Maharashtra,Mumbai,167.4,31.2,21.6,123.0,239.0,No,Yes,Rarely,Non-Vegetarian,Hypertension
+594.0,45.0,Other,Maharashtra,Bangalore,178.9,47.3,25.3,106.0,235.0,Yes,Yes,Rarely,Vegetarian,Obesity
+595.0,75.0,Female,Delhi,Kolkata,155.0,68.3,26.6,143.0,241.0,No,Yes,Daily,Vegetarian,None
+596.0,72.0,Other,Tamil Nadu,Ahmedabad,162.2,50.3,26.3,165.0,173.0,No,Occasionally,Daily,Vegetarian,Hypertension
+597.0,43.0,Male,Punjab,Kolkata,153.8,63.7,22.4,174.0,222.0,,Yes,Weekly,Non-Vegetarian,Asthma
+598.0,54.0,Other,Karnataka,Kolkata,,70.1,25.1,129.0,153.0,No,Occasionally,Never,,
+599.0,43.0,Male,Delhi,Pune,,62.3,28.1,108.0,262.0,No,Yes,Weekly,Non-Vegetarian,None
+600.0,,Other,Delhi,Amritsar,173.1,57.6,25.8,156.0,195.0,Yes,Occasionally,Rarely,Non-Vegetarian,Diabetes
+601.0,79.0,Male,Punjab,Amritsar,,46.2,31.4,171.0,167.0,No,Yes,Weekly,,
+,40.0,Other,Punjab,Bangalore,172.7,65.3,27.9,,192.0,No,Yes,Weekly,Non-Vegetarian,Obesity
+603.0,26.0,Male,Karnataka,,,34.0,30.9,153.0,242.0,No,No,,Vegetarian,Asthma
+604.0,29.0,,Karnataka,Amritsar,184.3,54.7,14.0,172.0,252.0,No,No,Rarely,Non-Vegetarian,Diabetes
+605.0,70.0,Female,Punjab,Kolkata,165.7,51.1,24.4,136.0,273.0,Yes,Yes,Rarely,Vegan,Hypertension
+606.0,18.0,Male,Maharashtra,Amritsar,158.6,61.4,22.7,95.0,159.0,No,,Rarely,Eggetarian,Hypertension
+607.0,75.0,Other,Delhi,Kolkata,,61.8,23.5,105.0,222.0,Yes,Yes,Daily,Eggetarian,Asthma
+,75.0,Male,Gujarat,Chennai,154.0,79.4,20.8,161.0,180.0,No,,Never,Vegetarian,Obesity
+609.0,18.0,Other,Karnataka,Pune,177.5,88.8,25.6,107.0,209.0,No,No,Never,Vegan,
+610.0,64.0,Female,Karnataka,Pune,149.8,48.2,16.8,141.0,280.0,Yes,Occasionally,Rarely,Eggetarian,Asthma
+611.0,51.0,Other,Punjab,,177.2,94.9,25.6,137.0,267.0,Yes,Yes,Never,Vegetarian,Hypertension
+,49.0,Female,Tamil Nadu,Amritsar,156.3,53.3,20.9,132.0,163.0,Yes,No,Never,Non-Vegetarian,Heart Disease
+613.0,79.0,Other,Gujarat,Amritsar,158.1,67.6,22.0,128.0,292.0,No,Yes,Never,Non-Vegetarian,None
+614.0,71.0,Other,Gujarat,Ahmedabad,163.5,72.7,,138.0,151.0,Yes,Yes,Never,Vegan,Obesity
+615.0,65.0,Other,Karnataka,Mumbai,158.0,101.7,24.3,101.0,173.0,No,Occasionally,Rarely,Eggetarian,Heart Disease
+616.0,42.0,Male,Maharashtra,Chennai,174.3,56.9,28.2,99.0,213.0,Yes,Yes,,,Asthma
+617.0,57.0,Male,Tamil Nadu,,183.1,38.0,20.1,160.0,249.0,Yes,Yes,Weekly,Vegetarian,Asthma
+,62.0,Female,Gujarat,Chennai,158.4,87.4,23.7,144.0,263.0,No,Occasionally,Weekly,Non-Vegetarian,Heart Disease
+619.0,70.0,Female,,Pune,160.7,52.5,27.6,90.0,173.0,Yes,Occasionally,Daily,Non-Vegetarian,None
+620.0,18.0,Male,Gujarat,Chennai,163.4,59.6,25.4,138.0,240.0,Yes,Occasionally,Never,Eggetarian,None
+621.0,,Female,West Bengal,Bangalore,170.4,48.2,25.7,125.0,175.0,No,Occasionally,Rarely,Eggetarian,Diabetes
+622.0,78.0,Male,Tamil Nadu,Kolkata,163.5,59.6,28.4,110.0,214.0,No,No,Rarely,Vegetarian,Hypertension
+623.0,56.0,Other,Tamil Nadu,Pune,178.9,52.4,22.4,126.0,269.0,No,No,Daily,,Diabetes
+624.0,22.0,Female,West Bengal,Chennai,176.5,75.1,21.5,113.0,153.0,Yes,No,Rarely,Vegan,None
+625.0,39.0,Female,Delhi,Amritsar,153.1,,26.3,144.0,150.0,Yes,Yes,Weekly,,Heart Disease
+626.0,46.0,Male,West Bengal,Mumbai,170.2,54.8,,114.0,199.0,,Occasionally,Daily,Vegetarian,Hypertension
+627.0,72.0,Female,Punjab,Bangalore,180.2,,28.5,96.0,,Yes,Occasionally,Rarely,Vegan,Heart Disease
+628.0,20.0,Female,,Bangalore,160.1,68.8,25.5,170.0,288.0,Yes,No,Daily,,Diabetes
+629.0,29.0,Other,Karnataka,Mumbai,,37.3,21.5,160.0,223.0,No,Yes,Daily,Non-Vegetarian,Asthma
+630.0,43.0,Female,Tamil Nadu,Chennai,159.7,78.8,,160.0,211.0,Yes,Yes,Rarely,Vegetarian,Heart Disease
+631.0,33.0,Other,Delhi,Amritsar,159.9,67.8,20.4,113.0,230.0,No,Yes,Weekly,Vegan,Diabetes
+632.0,68.0,Male,Delhi,Delhi,,85.9,27.8,100.0,205.0,,No,Rarely,Eggetarian,Diabetes
+,54.0,,Gujarat,Mumbai,151.7,66.9,18.4,162.0,260.0,No,Yes,Never,Eggetarian,Diabetes
+634.0,39.0,Other,Gujarat,Chennai,165.8,53.1,,101.0,170.0,Yes,Yes,,Non-Vegetarian,Asthma
+635.0,,Male,West Bengal,Mumbai,180.1,61.9,25.3,124.0,290.0,Yes,Yes,Rarely,Non-Vegetarian,Asthma
+636.0,46.0,Female,Delhi,Mumbai,,77.1,23.3,152.0,158.0,No,Occasionally,Weekly,Non-Vegetarian,Asthma
+637.0,31.0,Male,West Bengal,Pune,158.6,53.4,27.1,157.0,,Yes,,Never,Non-Vegetarian,Hypertension
+638.0,45.0,Female,West Bengal,Chennai,182.0,58.4,26.0,146.0,219.0,No,Occasionally,Never,Vegan,
+639.0,22.0,Male,Gujarat,Delhi,153.9,61.7,29.3,102.0,278.0,Yes,Occasionally,Rarely,Vegetarian,Asthma
+640.0,64.0,Male,,Kolkata,148.4,47.8,29.3,112.0,267.0,Yes,,Rarely,Non-Vegetarian,Asthma
+641.0,66.0,Other,West Bengal,Pune,156.7,53.7,25.4,172.0,205.0,No,Occasionally,Rarely,Non-Vegetarian,Heart Disease
+642.0,47.0,Male,Maharashtra,Mumbai,,,20.5,,180.0,Yes,Yes,Daily,Vegan,Asthma
+643.0,63.0,,Tamil Nadu,Kolkata,147.5,83.0,21.8,177.0,186.0,No,Yes,Daily,Non-Vegetarian,Hypertension
+644.0,79.0,Female,Delhi,,163.7,69.8,23.7,169.0,240.0,Yes,Yes,Daily,Non-Vegetarian,Diabetes
+645.0,69.0,Other,Delhi,Kolkata,174.5,64.3,28.3,101.0,263.0,Yes,Yes,Rarely,Vegetarian,Heart Disease
+646.0,22.0,Female,West Bengal,Mumbai,152.1,52.5,22.2,123.0,277.0,Yes,No,Weekly,Eggetarian,None
+,29.0,Female,Tamil Nadu,Mumbai,165.9,81.4,22.5,160.0,271.0,Yes,Occasionally,Never,Non-Vegetarian,
+648.0,33.0,Female,Gujarat,Amritsar,,71.5,31.4,164.0,218.0,,Occasionally,Daily,Vegan,Diabetes
+649.0,43.0,Male,Gujarat,Chennai,164.2,54.4,,120.0,185.0,Yes,Yes,Weekly,Vegetarian,Diabetes
+,43.0,Male,Punjab,Chennai,,78.5,21.5,151.0,181.0,Yes,,Rarely,,Heart Disease
+651.0,65.0,Female,Delhi,Pune,167.0,73.4,27.1,102.0,,No,Occasionally,Daily,Vegetarian,None
+652.0,38.0,Other,Karnataka,Delhi,156.9,52.8,23.8,120.0,,Yes,No,Rarely,Vegetarian,Obesity
+,56.0,Male,Punjab,Pune,180.0,63.5,18.4,91.0,230.0,,,Weekly,Non-Vegetarian,Hypertension
+654.0,53.0,Other,Gujarat,Bangalore,177.5,57.6,28.2,104.0,298.0,Yes,Yes,Daily,Non-Vegetarian,Obesity
+655.0,50.0,Female,Tamil Nadu,Mumbai,176.9,104.5,,146.0,209.0,No,Yes,Daily,Non-Vegetarian,
+656.0,79.0,Female,Gujarat,Kolkata,175.1,73.0,24.2,164.0,290.0,No,No,Daily,Eggetarian,
+657.0,47.0,Male,Tamil Nadu,Ahmedabad,149.3,67.8,,123.0,150.0,Yes,Occasionally,Daily,Eggetarian,Diabetes
+658.0,54.0,Female,Punjab,Mumbai,174.3,72.1,,157.0,214.0,Yes,No,Weekly,Vegan,
+659.0,40.0,Male,,Mumbai,171.6,85.7,15.2,164.0,182.0,Yes,No,Daily,Non-Vegetarian,Diabetes
+660.0,75.0,,Gujarat,Pune,149.6,63.7,22.7,118.0,187.0,No,Yes,,Eggetarian,Diabetes
+661.0,27.0,Female,West Bengal,Ahmedabad,162.9,56.2,28.5,155.0,174.0,,Occasionally,,Non-Vegetarian,Heart Disease
+662.0,71.0,Male,Tamil Nadu,Ahmedabad,167.8,77.7,29.1,105.0,208.0,No,Yes,Rarely,Eggetarian,None
+663.0,22.0,Male,Delhi,Ahmedabad,181.6,62.4,20.0,128.0,250.0,Yes,Occasionally,Daily,Eggetarian,Diabetes
+664.0,,Male,,Pune,,49.0,27.7,166.0,276.0,No,,Never,Vegetarian,
+665.0,51.0,Female,Tamil Nadu,Mumbai,156.4,46.0,21.0,,190.0,No,Yes,Never,Non-Vegetarian,Hypertension
+666.0,,Female,Punjab,,182.0,87.9,22.5,170.0,206.0,Yes,Occasionally,,Non-Vegetarian,Asthma
+667.0,48.0,Other,Karnataka,Chennai,165.4,67.0,22.7,110.0,197.0,Yes,Occasionally,Weekly,Eggetarian,Diabetes
+,27.0,Male,Karnataka,Chennai,162.4,,24.4,133.0,221.0,Yes,Yes,Daily,Non-Vegetarian,Diabetes
+669.0,75.0,Female,Maharashtra,Pune,161.7,61.5,28.0,108.0,205.0,Yes,Occasionally,Weekly,Eggetarian,Diabetes
+670.0,36.0,Female,Gujarat,Ahmedabad,148.8,,25.1,160.0,214.0,Yes,Yes,Weekly,Non-Vegetarian,Obesity
+671.0,75.0,Male,Tamil Nadu,Amritsar,163.9,60.6,23.5,97.0,161.0,Yes,Occasionally,Never,Vegetarian,Diabetes
+672.0,49.0,Other,Karnataka,Mumbai,170.0,43.3,27.9,166.0,,Yes,Yes,Never,Non-Vegetarian,Diabetes
+673.0,18.0,,Maharashtra,Pune,161.1,69.9,20.8,,283.0,No,Yes,Rarely,Vegetarian,Hypertension
+674.0,73.0,Other,Punjab,Pune,169.2,83.1,23.7,130.0,238.0,Yes,Yes,Daily,Vegan,None
+675.0,22.0,Female,Delhi,,156.4,82.1,28.0,164.0,174.0,Yes,No,Daily,Non-Vegetarian,None
+676.0,62.0,,West Bengal,Amritsar,163.6,56.6,26.1,177.0,150.0,No,Occasionally,Never,,Asthma
+677.0,21.0,Female,West Bengal,Amritsar,168.2,84.0,22.1,159.0,280.0,Yes,Yes,Never,Non-Vegetarian,Hypertension
+678.0,33.0,,Tamil Nadu,Bangalore,166.9,68.2,17.9,150.0,198.0,,No,Daily,Vegetarian,Diabetes
+679.0,41.0,Male,Karnataka,Chennai,,83.6,25.2,115.0,296.0,Yes,Yes,Rarely,,None
+680.0,33.0,Male,West Bengal,Kolkata,160.6,73.6,17.7,160.0,209.0,Yes,,Never,Non-Vegetarian,Heart Disease
+681.0,72.0,Other,Gujarat,Ahmedabad,181.8,42.2,23.1,172.0,151.0,No,Yes,Rarely,Eggetarian,Heart Disease
+682.0,19.0,Female,West Bengal,Delhi,160.1,91.2,28.7,159.0,222.0,No,Yes,Weekly,Vegan,Heart Disease
+683.0,66.0,,West Bengal,Amritsar,165.2,65.8,26.4,118.0,294.0,Yes,,,,Diabetes
+684.0,45.0,Male,,Kolkata,164.1,73.7,15.9,155.0,259.0,,No,Weekly,Eggetarian,Diabetes
+685.0,49.0,Female,Maharashtra,Amritsar,180.7,44.8,24.8,,210.0,No,Occasionally,Never,Vegetarian,Asthma
+,44.0,Male,Karnataka,Ahmedabad,,,22.7,157.0,166.0,Yes,Occasionally,Weekly,Eggetarian,Asthma
+687.0,37.0,,Gujarat,Delhi,173.1,81.5,,147.0,198.0,No,,,,Asthma
+688.0,41.0,Female,,Bangalore,155.3,94.0,25.3,159.0,225.0,No,Occasionally,Rarely,Eggetarian,Obesity
+689.0,29.0,Female,Tamil Nadu,Pune,168.6,86.0,22.0,146.0,297.0,No,No,Rarely,Vegetarian,Heart Disease
+690.0,67.0,Female,Tamil Nadu,,170.7,73.3,22.1,126.0,280.0,Yes,Occasionally,Rarely,Non-Vegetarian,Diabetes
+691.0,52.0,,Tamil Nadu,Amritsar,158.0,41.8,24.5,150.0,,Yes,,Weekly,Non-Vegetarian,Heart Disease
+692.0,77.0,Other,Punjab,Bangalore,156.3,67.0,21.5,119.0,206.0,Yes,Occasionally,Rarely,,Asthma
+693.0,50.0,Male,West Bengal,Kolkata,182.1,56.1,24.4,160.0,199.0,No,Yes,Weekly,Vegetarian,
+694.0,50.0,Other,Punjab,Mumbai,162.0,68.5,21.6,162.0,186.0,Yes,Yes,Never,Vegetarian,Hypertension
+695.0,78.0,Male,Maharashtra,Amritsar,181.1,46.8,21.8,114.0,195.0,,Occasionally,Weekly,Vegetarian,None
+696.0,68.0,Other,Tamil Nadu,Amritsar,175.0,61.8,28.0,154.0,164.0,No,No,Never,Vegan,None
+,60.0,Female,Gujarat,Kolkata,169.1,57.2,28.4,95.0,229.0,Yes,Yes,Daily,Non-Vegetarian,Asthma
+698.0,54.0,,,Chennai,169.5,56.8,17.2,107.0,288.0,Yes,Yes,Daily,,Heart Disease
+699.0,29.0,Male,West Bengal,,151.0,56.9,27.0,99.0,297.0,,Occasionally,Daily,Vegan,Hypertension
+,20.0,,Delhi,Pune,167.1,63.0,29.6,100.0,,No,,Weekly,Eggetarian,Diabetes
+701.0,18.0,Other,Gujarat,Kolkata,179.2,69.3,30.2,154.0,274.0,Yes,,Daily,Non-Vegetarian,Heart Disease
+702.0,50.0,Male,West Bengal,Delhi,171.8,,,,267.0,No,Occasionally,Daily,Vegan,Asthma
+703.0,57.0,Other,,Ahmedabad,166.5,29.4,19.8,173.0,229.0,No,No,Daily,Non-Vegetarian,Heart Disease
+704.0,27.0,Other,Punjab,,182.1,59.9,26.5,154.0,243.0,No,Occasionally,Never,Eggetarian,
+705.0,60.0,Other,Gujarat,Ahmedabad,163.1,,20.5,141.0,214.0,,Occasionally,Rarely,Vegetarian,Obesity
+,,Female,Punjab,Kolkata,158.8,67.8,22.6,156.0,237.0,Yes,Occasionally,Weekly,Vegetarian,None
+,46.0,Female,Tamil Nadu,,166.5,54.1,,171.0,237.0,,Yes,Daily,Eggetarian,None
+708.0,30.0,Other,Maharashtra,Amritsar,172.7,65.1,20.8,167.0,294.0,No,Yes,Never,Vegetarian,Heart Disease
+709.0,,Other,Karnataka,Chennai,147.8,66.9,19.4,120.0,275.0,No,Yes,Rarely,Eggetarian,Hypertension
+710.0,48.0,Female,Maharashtra,Kolkata,167.8,54.0,,106.0,238.0,Yes,Occasionally,Rarely,Vegan,Diabetes
+,63.0,Female,West Bengal,Ahmedabad,173.1,80.2,31.5,144.0,210.0,,Yes,Rarely,Vegan,Asthma
+712.0,19.0,Male,,Delhi,162.3,67.7,29.0,125.0,164.0,Yes,Yes,Never,Vegan,Diabetes
+713.0,78.0,Male,Karnataka,Delhi,176.1,73.2,,115.0,,Yes,Yes,Daily,Vegetarian,None
+714.0,68.0,,Maharashtra,Ahmedabad,171.4,66.0,27.9,142.0,200.0,Yes,,Rarely,Non-Vegetarian,Hypertension
+,67.0,Other,Gujarat,Bangalore,186.4,96.6,26.6,106.0,176.0,Yes,Occasionally,Never,Vegetarian,
+716.0,52.0,Other,Karnataka,Chennai,157.5,73.9,25.8,175.0,223.0,Yes,Occasionally,Never,Vegetarian,
+717.0,40.0,Other,Maharashtra,Mumbai,173.3,57.7,27.6,,210.0,Yes,Yes,Weekly,Non-Vegetarian,None
+718.0,34.0,,Karnataka,Amritsar,154.8,77.3,18.5,91.0,,Yes,No,Never,Non-Vegetarian,
+719.0,43.0,Male,Delhi,Pune,148.8,,24.8,175.0,161.0,No,Yes,Rarely,Non-Vegetarian,Heart Disease
+720.0,25.0,Female,Gujarat,Delhi,144.6,,23.7,,,Yes,Yes,Rarely,Non-Vegetarian,Hypertension
+721.0,46.0,Other,,,170.4,69.8,24.3,93.0,181.0,No,Occasionally,Never,Vegetarian,Hypertension
+722.0,43.0,Male,,Mumbai,166.8,67.0,,125.0,210.0,No,Occasionally,Rarely,Eggetarian,Heart Disease
+723.0,27.0,Other,Delhi,Kolkata,160.2,60.0,26.1,95.0,195.0,Yes,Yes,Never,,None
+724.0,43.0,Female,Tamil Nadu,Pune,147.3,49.8,,110.0,234.0,No,Yes,Rarely,Eggetarian,Hypertension
+725.0,79.0,Male,Tamil Nadu,,158.1,53.2,21.9,166.0,229.0,No,No,Weekly,Vegetarian,Obesity
+726.0,51.0,Female,West Bengal,Amritsar,165.0,66.5,21.4,178.0,284.0,,No,Daily,Non-Vegetarian,
+727.0,,Female,Karnataka,Ahmedabad,172.9,48.3,27.5,115.0,153.0,Yes,Occasionally,Weekly,Vegan,Obesity
+728.0,58.0,Male,Maharashtra,,164.8,91.6,24.0,144.0,201.0,Yes,No,Weekly,Vegan,Asthma
+729.0,24.0,Male,Karnataka,Amritsar,167.5,25.4,22.2,128.0,261.0,Yes,No,Daily,Eggetarian,Asthma
+730.0,21.0,Male,Delhi,Delhi,161.2,60.1,22.5,173.0,185.0,Yes,,Rarely,Vegetarian,None
+731.0,75.0,Male,Tamil Nadu,Mumbai,182.5,66.7,24.0,122.0,203.0,Yes,No,,Vegetarian,Heart Disease
+732.0,70.0,Male,Karnataka,Pune,154.8,72.6,30.5,103.0,268.0,No,Yes,Never,Vegetarian,
+733.0,67.0,Male,Maharashtra,Delhi,158.0,,,145.0,276.0,No,No,Daily,Vegan,None
+734.0,62.0,Male,West Bengal,Bangalore,160.1,82.0,26.7,170.0,,Yes,,Weekly,Eggetarian,Diabetes
+735.0,28.0,,Karnataka,Ahmedabad,170.4,44.1,25.9,110.0,224.0,No,Yes,Daily,Vegan,None
+,46.0,Female,Gujarat,Kolkata,154.6,56.5,20.5,135.0,,No,No,Rarely,,Asthma
+737.0,73.0,Male,West Bengal,Delhi,166.4,74.3,29.9,105.0,,No,Yes,Weekly,Non-Vegetarian,
+,,Other,,,166.6,,26.2,105.0,266.0,No,Yes,Never,Eggetarian,Heart Disease
+739.0,,Other,Delhi,Mumbai,158.1,43.9,22.0,173.0,192.0,,No,Rarely,Non-Vegetarian,Asthma
+740.0,38.0,Other,Tamil Nadu,Bangalore,168.3,,,118.0,261.0,Yes,No,Weekly,Vegetarian,Heart Disease
+741.0,78.0,Female,Karnataka,Pune,154.9,51.5,24.9,97.0,264.0,Yes,Occasionally,Never,,Diabetes
+742.0,74.0,Male,Maharashtra,Bangalore,153.8,,23.8,,176.0,No,Occasionally,Rarely,Eggetarian,None
+743.0,53.0,Other,West Bengal,Bangalore,166.0,72.5,19.9,92.0,186.0,No,Yes,Never,Vegetarian,Hypertension
+744.0,27.0,Female,Gujarat,Chennai,148.4,59.8,19.8,178.0,195.0,Yes,Occasionally,Daily,Eggetarian,Hypertension
+745.0,,Female,Maharashtra,Bangalore,143.6,57.6,,108.0,262.0,,Yes,Daily,Vegan,Heart Disease
+,26.0,Female,Punjab,Bangalore,170.3,73.9,16.2,155.0,184.0,,Yes,Never,Eggetarian,Obesity
+747.0,41.0,Other,,Amritsar,,42.1,25.3,,281.0,Yes,Occasionally,Daily,Vegetarian,Obesity
+748.0,52.0,Male,West Bengal,Delhi,160.3,39.5,23.3,175.0,,Yes,Occasionally,Never,Non-Vegetarian,Heart Disease
+749.0,66.0,,Delhi,Pune,158.3,56.0,26.0,163.0,,No,Occasionally,Rarely,,Asthma
+750.0,52.0,Other,Tamil Nadu,Amritsar,175.1,81.2,22.8,171.0,270.0,No,No,Weekly,,Hypertension
+751.0,65.0,,West Bengal,,153.5,,,111.0,,Yes,Yes,Never,Vegan,Asthma
+752.0,53.0,Male,Delhi,,151.4,89.0,21.0,135.0,271.0,No,Yes,Weekly,Vegetarian,Diabetes
+753.0,35.0,Male,Karnataka,Delhi,172.1,83.0,23.8,102.0,230.0,Yes,,Weekly,Vegan,
+754.0,66.0,Female,,Mumbai,165.1,69.2,26.0,,299.0,No,Occasionally,Never,Non-Vegetarian,Diabetes
+755.0,56.0,Male,Punjab,Delhi,175.6,70.1,24.6,94.0,,No,Occasionally,Daily,Vegan,None
+756.0,49.0,Other,Gujarat,Chennai,143.6,69.2,25.5,179.0,207.0,Yes,Occasionally,Rarely,Vegetarian,Asthma
+757.0,41.0,Male,Gujarat,Chennai,151.0,67.4,20.3,166.0,212.0,No,Occasionally,Weekly,Vegan,Heart Disease
+758.0,40.0,Other,Maharashtra,Amritsar,165.1,59.5,21.6,116.0,,Yes,Occasionally,Rarely,Non-Vegetarian,Hypertension
+759.0,79.0,,Punjab,,169.2,61.2,21.7,167.0,215.0,No,,Weekly,Vegetarian,Asthma
+760.0,49.0,Other,Maharashtra,Mumbai,173.5,49.0,22.9,113.0,294.0,Yes,Occasionally,Never,Non-Vegetarian,
+761.0,54.0,Other,Karnataka,Kolkata,166.7,31.8,,156.0,234.0,,Yes,Daily,Vegan,None
+762.0,29.0,Male,Delhi,Kolkata,166.6,81.6,22.6,,286.0,No,,Rarely,Eggetarian,Hypertension
+763.0,66.0,Male,West Bengal,Amritsar,161.1,67.4,19.4,,293.0,Yes,Yes,Weekly,Non-Vegetarian,Diabetes
+764.0,72.0,Other,Gujarat,Ahmedabad,180.9,65.1,26.2,152.0,272.0,No,Occasionally,Never,Vegan,None
+765.0,30.0,Male,Karnataka,Amritsar,154.0,71.0,29.4,167.0,151.0,Yes,Occasionally,Never,,Obesity
+766.0,40.0,Female,Delhi,Pune,168.6,52.6,19.0,101.0,255.0,,Yes,Weekly,,Heart Disease
+,42.0,Female,Karnataka,Pune,155.1,50.0,31.9,117.0,,No,Yes,Weekly,,Hypertension
+768.0,52.0,Male,Punjab,Delhi,170.3,60.7,25.7,133.0,221.0,Yes,Yes,Weekly,Eggetarian,
+769.0,,Female,,Delhi,154.6,85.5,28.1,132.0,275.0,No,Yes,Daily,Non-Vegetarian,None
+770.0,,,West Bengal,Ahmedabad,172.4,47.5,29.9,106.0,206.0,No,No,Weekly,Non-Vegetarian,
+771.0,,Other,Maharashtra,Delhi,,25.6,27.9,129.0,230.0,Yes,Yes,Weekly,Eggetarian,Heart Disease
+772.0,66.0,Other,Maharashtra,Pune,182.4,57.2,23.6,138.0,290.0,No,Occasionally,Daily,Vegan,
+773.0,79.0,Female,Delhi,Kolkata,162.2,82.1,28.9,174.0,168.0,Yes,Occasionally,,Non-Vegetarian,Diabetes
+774.0,37.0,Male,West Bengal,Amritsar,169.2,39.0,25.0,146.0,156.0,,No,Weekly,Non-Vegetarian,None
+775.0,65.0,Male,Tamil Nadu,Bangalore,157.2,47.3,,176.0,286.0,Yes,Yes,Rarely,Vegetarian,None
+776.0,42.0,Female,Punjab,Chennai,162.1,69.0,28.8,173.0,203.0,No,,Never,Vegan,Diabetes
+777.0,39.0,,Delhi,Bangalore,166.1,103.5,19.6,153.0,253.0,,No,Rarely,Eggetarian,
+,30.0,Female,Tamil Nadu,Bangalore,149.7,44.6,,,235.0,Yes,Occasionally,Weekly,Vegan,Heart Disease
+779.0,76.0,Other,Karnataka,Pune,150.8,44.0,23.3,146.0,231.0,No,No,Daily,Vegetarian,Obesity
+780.0,36.0,Male,Punjab,Bangalore,171.0,70.1,24.6,,210.0,Yes,No,Daily,Vegetarian,Obesity
+781.0,66.0,Other,Karnataka,Amritsar,163.5,83.1,24.5,,236.0,No,Yes,Daily,Vegan,Obesity
+782.0,53.0,Female,West Bengal,Ahmedabad,159.1,55.6,24.3,159.0,151.0,,No,Weekly,Vegetarian,Asthma
+783.0,29.0,Male,,Mumbai,157.6,40.7,30.1,177.0,180.0,Yes,,,Vegetarian,
+784.0,,,,Delhi,158.0,71.5,18.5,165.0,182.0,No,Occasionally,Rarely,Vegetarian,Asthma
+785.0,58.0,Female,Tamil Nadu,Mumbai,166.1,74.2,17.1,132.0,229.0,Yes,Yes,Daily,Vegan,Diabetes
+,36.0,Other,Gujarat,Kolkata,169.5,,16.3,112.0,160.0,Yes,,Weekly,Vegetarian,Heart Disease
+787.0,29.0,Female,Maharashtra,Amritsar,144.1,74.9,28.3,116.0,277.0,No,No,Never,Eggetarian,Obesity
+,26.0,Other,Tamil Nadu,Amritsar,179.1,,20.9,147.0,284.0,,Yes,Weekly,Eggetarian,Hypertension
+789.0,24.0,Male,Delhi,Chennai,178.4,,24.5,126.0,277.0,,Occasionally,Weekly,Non-Vegetarian,Diabetes
+790.0,45.0,Other,Maharashtra,,141.7,,23.5,95.0,180.0,,Occasionally,Never,,Asthma
+791.0,31.0,Male,Maharashtra,Delhi,175.9,59.0,20.5,154.0,275.0,,Yes,Daily,Non-Vegetarian,Heart Disease
+792.0,48.0,Other,Delhi,Amritsar,175.6,55.8,27.4,95.0,196.0,Yes,Yes,Never,Vegan,
+793.0,69.0,Female,Punjab,Bangalore,165.0,92.1,,139.0,256.0,Yes,Yes,,Vegetarian,Heart Disease
+794.0,36.0,Other,Maharashtra,Chennai,152.0,,23.0,111.0,,Yes,No,Never,Eggetarian,
+795.0,75.0,Other,West Bengal,Delhi,175.2,37.3,,177.0,230.0,Yes,No,,Non-Vegetarian,Obesity
+796.0,64.0,Male,Tamil Nadu,Ahmedabad,162.6,66.8,26.9,114.0,272.0,Yes,Occasionally,Daily,Vegan,Obesity
+797.0,33.0,Female,Gujarat,Ahmedabad,170.5,65.0,20.2,168.0,283.0,Yes,,Weekly,Non-Vegetarian,Asthma
+,70.0,Other,Maharashtra,Ahmedabad,187.2,61.6,27.5,179.0,256.0,Yes,No,Rarely,Vegetarian,Asthma
+799.0,22.0,Female,Tamil Nadu,Ahmedabad,167.5,79.9,29.8,161.0,198.0,No,No,Daily,Eggetarian,Obesity
+800.0,52.0,,Karnataka,Bangalore,155.8,,18.3,140.0,222.0,Yes,No,Daily,Vegan,Obesity
+,29.0,Other,Tamil Nadu,Amritsar,161.6,66.0,25.1,177.0,199.0,Yes,Occasionally,Daily,Non-Vegetarian,Hypertension
+802.0,,Female,Gujarat,Mumbai,157.1,59.6,22.8,137.0,230.0,No,Yes,Never,Vegan,Hypertension
+,69.0,Other,Tamil Nadu,Delhi,169.3,51.6,26.8,159.0,,Yes,Occasionally,Daily,Non-Vegetarian,Diabetes
+804.0,76.0,Female,Delhi,Bangalore,156.9,64.1,19.1,154.0,161.0,Yes,No,Weekly,Non-Vegetarian,Obesity
+,38.0,Other,Gujarat,Ahmedabad,160.3,77.8,,149.0,172.0,Yes,Yes,Daily,Vegetarian,None
+,53.0,Male,Punjab,Kolkata,152.2,96.8,17.6,135.0,203.0,Yes,Yes,Weekly,Vegetarian,Hypertension
+807.0,70.0,,Karnataka,Amritsar,163.7,73.7,23.0,125.0,267.0,Yes,,Weekly,Non-Vegetarian,Asthma
+808.0,,Other,Delhi,Mumbai,166.8,27.3,25.7,147.0,208.0,Yes,Occasionally,Weekly,Eggetarian,Heart Disease
+809.0,33.0,Other,Punjab,Kolkata,138.2,,21.3,,152.0,No,Yes,Rarely,,Diabetes
+810.0,74.0,,Tamil Nadu,Chennai,167.6,65.7,20.6,127.0,207.0,No,Occasionally,Weekly,Vegan,Hypertension
+811.0,56.0,Female,Gujarat,Kolkata,164.5,79.0,24.9,100.0,206.0,,Occasionally,Never,Vegetarian,Heart Disease
+812.0,62.0,Other,Karnataka,Chennai,157.4,67.8,,101.0,,No,No,,Eggetarian,Heart Disease
+813.0,70.0,Male,Delhi,Chennai,185.3,83.8,24.0,131.0,239.0,No,No,Never,Non-Vegetarian,Hypertension
+,,Other,Punjab,Ahmedabad,174.6,70.9,27.4,128.0,204.0,Yes,Yes,,Vegetarian,None
+,75.0,Female,Punjab,Chennai,154.0,88.4,22.4,160.0,194.0,Yes,Yes,,Non-Vegetarian,None
+816.0,56.0,Other,Karnataka,Pune,173.4,58.4,25.3,100.0,150.0,Yes,No,Weekly,Non-Vegetarian,Diabetes
+817.0,,Other,West Bengal,Delhi,177.4,67.2,22.0,125.0,170.0,Yes,Occasionally,Daily,Vegetarian,None
+818.0,48.0,,Tamil Nadu,Delhi,166.3,77.4,20.6,141.0,170.0,Yes,Occasionally,Rarely,Eggetarian,Diabetes
+819.0,75.0,Other,Karnataka,Ahmedabad,168.6,56.4,22.9,120.0,201.0,No,No,Rarely,Vegan,Asthma
+820.0,22.0,Male,,Pune,168.4,53.1,22.0,122.0,231.0,No,Occasionally,Never,Vegetarian,Hypertension
+821.0,52.0,Male,,Kolkata,144.1,55.6,22.2,102.0,216.0,Yes,No,Daily,Eggetarian,Heart Disease
+822.0,40.0,Female,Delhi,Bangalore,163.1,,28.7,,262.0,Yes,No,Daily,Non-Vegetarian,Diabetes
+823.0,46.0,Male,,Kolkata,162.6,,23.0,,193.0,Yes,Yes,Daily,Vegetarian,None
+824.0,60.0,Male,West Bengal,Amritsar,179.3,37.5,,147.0,159.0,No,Yes,Never,Vegan,Diabetes
+825.0,28.0,,Punjab,Bangalore,168.3,41.7,24.1,,,No,No,Rarely,Vegan,Obesity
+826.0,35.0,Male,Tamil Nadu,Chennai,162.0,92.9,24.4,113.0,218.0,Yes,Yes,Weekly,Non-Vegetarian,Diabetes
+827.0,,Male,Punjab,Mumbai,164.1,54.1,19.3,162.0,,No,No,Daily,Vegetarian,None
+828.0,29.0,Female,Tamil Nadu,Bangalore,175.2,68.0,22.8,120.0,177.0,Yes,Occasionally,Never,Vegan,Obesity
+829.0,26.0,Female,Karnataka,Mumbai,,42.7,,,,No,Occasionally,Never,Vegetarian,Obesity
+830.0,27.0,Female,Tamil Nadu,Delhi,158.0,66.4,23.3,99.0,200.0,,Occasionally,Weekly,Vegan,None
+831.0,75.0,Other,Gujarat,,162.2,,26.9,149.0,153.0,Yes,Occasionally,Rarely,Non-Vegetarian,Obesity
+832.0,61.0,,Gujarat,,174.4,41.6,24.5,91.0,228.0,No,No,Daily,Non-Vegetarian,Hypertension
+833.0,34.0,Female,Gujarat,Pune,170.0,85.1,28.9,104.0,166.0,No,Occasionally,Daily,,Heart Disease
+834.0,78.0,Female,West Bengal,Pune,165.4,82.7,24.0,92.0,257.0,Yes,Occasionally,Never,Eggetarian,Hypertension
+,,Female,West Bengal,Ahmedabad,166.9,63.4,31.1,132.0,223.0,No,,,Eggetarian,Hypertension
+836.0,24.0,Other,,Ahmedabad,159.4,80.0,22.2,,172.0,Yes,Occasionally,Daily,Non-Vegetarian,None
+837.0,63.0,Other,West Bengal,Chennai,163.1,93.5,20.9,159.0,167.0,,,Weekly,Vegan,None
+838.0,30.0,Male,Karnataka,Bangalore,158.4,76.3,26.2,156.0,278.0,Yes,Occasionally,Rarely,Eggetarian,Heart Disease
+839.0,57.0,Male,Punjab,,162.1,72.2,29.5,145.0,,Yes,Yes,Rarely,Non-Vegetarian,Diabetes
+840.0,,Female,,,178.5,68.0,18.5,152.0,213.0,No,Yes,Never,Vegan,Hypertension
+841.0,26.0,Other,Maharashtra,Chennai,154.2,74.7,23.2,164.0,208.0,No,Yes,Never,Vegan,Obesity
+842.0,67.0,Other,West Bengal,Mumbai,158.1,59.5,21.6,104.0,150.0,,Yes,Daily,,Heart Disease
+843.0,44.0,Other,Tamil Nadu,Delhi,,60.9,24.6,99.0,280.0,No,Yes,Never,Non-Vegetarian,Hypertension
+844.0,75.0,Female,Maharashtra,Ahmedabad,150.3,71.8,24.0,127.0,216.0,No,,,,Diabetes
+845.0,19.0,Male,Tamil Nadu,Pune,163.1,57.9,29.4,136.0,186.0,No,No,Daily,Vegan,Obesity
+846.0,22.0,Female,,Ahmedabad,158.8,59.5,23.6,146.0,178.0,Yes,Yes,Daily,,Hypertension
+847.0,46.0,Male,Delhi,Bangalore,182.6,65.0,29.5,139.0,238.0,,Occasionally,Rarely,Vegetarian,Asthma
+848.0,54.0,Male,Punjab,Delhi,162.2,82.3,22.7,160.0,249.0,Yes,Yes,Daily,Eggetarian,Heart Disease
+849.0,55.0,Female,Gujarat,Delhi,177.9,48.0,27.7,104.0,271.0,No,No,Weekly,Vegetarian,None
+,36.0,Male,West Bengal,Mumbai,,76.4,24.9,107.0,,,Yes,Weekly,Non-Vegetarian,Hypertension
+851.0,25.0,Male,,Bangalore,162.9,76.9,30.9,171.0,281.0,Yes,Occasionally,Daily,Eggetarian,Obesity
+852.0,65.0,Other,Delhi,Pune,186.1,76.8,18.1,177.0,163.0,Yes,Occasionally,Never,Eggetarian,Obesity
+853.0,62.0,Male,Punjab,Kolkata,167.7,52.9,19.3,91.0,299.0,No,No,Weekly,Vegetarian,Heart Disease
+854.0,18.0,Female,Gujarat,Delhi,180.1,39.6,31.3,173.0,280.0,No,,Daily,Vegan,Heart Disease
+855.0,39.0,Female,Tamil Nadu,,179.0,73.4,21.1,132.0,234.0,No,No,Weekly,Non-Vegetarian,Obesity
+856.0,69.0,,Tamil Nadu,Mumbai,169.1,67.8,21.3,115.0,170.0,No,No,Never,Non-Vegetarian,Obesity
+857.0,34.0,Other,Maharashtra,Chennai,172.5,80.1,20.5,160.0,175.0,Yes,Yes,Rarely,Non-Vegetarian,
+858.0,24.0,,Maharashtra,Amritsar,171.2,54.5,28.6,127.0,,No,Yes,Daily,Eggetarian,Hypertension
+859.0,,Male,Punjab,Pune,153.6,,19.0,131.0,271.0,No,Occasionally,Daily,Non-Vegetarian,Obesity
+,62.0,Male,Gujarat,Ahmedabad,165.6,80.8,24.1,94.0,187.0,Yes,No,Daily,Vegan,None
+861.0,,Female,Tamil Nadu,Bangalore,175.7,63.6,22.9,100.0,237.0,Yes,No,Daily,Vegan,Obesity
+862.0,53.0,Male,Punjab,Delhi,180.3,71.3,28.1,,160.0,No,Yes,Daily,Vegetarian,None
+863.0,23.0,Other,Punjab,Delhi,157.8,70.7,21.7,123.0,178.0,Yes,No,Daily,Non-Vegetarian,Hypertension
+864.0,77.0,Male,Karnataka,Ahmedabad,170.3,52.7,25.7,90.0,209.0,No,Occasionally,Never,Eggetarian,Heart Disease
+865.0,48.0,Female,West Bengal,Pune,,73.0,19.3,172.0,210.0,No,Occasionally,Rarely,Vegetarian,None
+866.0,36.0,Female,Maharashtra,Amritsar,163.8,89.3,33.1,91.0,296.0,Yes,No,Never,Vegan,Hypertension
+867.0,,Female,Gujarat,Chennai,,65.3,23.0,174.0,171.0,Yes,,,Non-Vegetarian,
+868.0,,Female,Tamil Nadu,Delhi,167.2,43.1,,109.0,227.0,,Occasionally,Rarely,Vegan,Hypertension
+869.0,71.0,Female,Punjab,Amritsar,,54.7,,150.0,262.0,Yes,Yes,Never,Vegetarian,Obesity
+870.0,56.0,Male,Tamil Nadu,Pune,179.4,38.3,21.7,176.0,,No,Occasionally,Weekly,Vegan,Hypertension
+871.0,44.0,Male,,Ahmedabad,172.8,,30.7,110.0,291.0,No,No,Never,,Heart Disease
+872.0,,Male,Gujarat,Mumbai,168.1,76.5,22.4,177.0,193.0,No,No,Daily,Non-Vegetarian,None
+873.0,43.0,Male,Punjab,Chennai,183.6,57.5,26.7,157.0,293.0,Yes,Occasionally,Weekly,Vegetarian,Heart Disease
+874.0,36.0,Female,Tamil Nadu,Bangalore,176.1,43.7,21.7,,246.0,No,No,Weekly,Non-Vegetarian,Asthma
+875.0,56.0,Other,Maharashtra,Delhi,164.1,52.5,18.6,111.0,226.0,No,Yes,Rarely,Vegan,Obesity
+876.0,79.0,Male,West Bengal,Pune,152.8,55.4,25.7,109.0,289.0,No,Occasionally,Never,,None
+877.0,20.0,Other,Karnataka,,155.1,66.6,26.6,171.0,204.0,Yes,Occasionally,Never,Eggetarian,Heart Disease
+878.0,62.0,Male,Gujarat,Bangalore,174.3,66.1,18.7,90.0,200.0,No,Occasionally,Weekly,Eggetarian,None
+879.0,,Male,Karnataka,Kolkata,158.7,85.1,22.8,119.0,251.0,No,,Never,Eggetarian,Asthma
+880.0,67.0,Other,Maharashtra,Pune,,54.6,28.8,113.0,178.0,No,No,Never,Vegan,Diabetes
+881.0,45.0,Female,Gujarat,Pune,,42.4,26.4,103.0,,Yes,Occasionally,Rarely,,Obesity
+882.0,79.0,Male,Karnataka,Bangalore,158.1,47.6,22.4,125.0,229.0,No,No,Weekly,,Obesity
+883.0,75.0,Male,Delhi,Mumbai,173.5,64.7,21.6,158.0,180.0,No,,Daily,Eggetarian,Hypertension
+884.0,37.0,Male,Maharashtra,,,54.1,31.8,164.0,261.0,Yes,Occasionally,Weekly,Vegan,Obesity
+885.0,45.0,Other,Maharashtra,Amritsar,151.3,60.6,18.2,113.0,195.0,Yes,Occasionally,Rarely,Vegetarian,Obesity
+886.0,25.0,Female,Maharashtra,Amritsar,165.3,58.2,23.8,149.0,246.0,No,No,Rarely,Vegan,Heart Disease
+887.0,78.0,Other,Delhi,Ahmedabad,,79.9,18.1,144.0,201.0,No,Occasionally,Rarely,Vegetarian,Obesity
+888.0,58.0,Other,Delhi,Mumbai,160.2,56.2,29.3,166.0,287.0,No,Occasionally,Never,Eggetarian,Obesity
+,56.0,Female,Tamil Nadu,Chennai,176.6,59.3,24.0,169.0,223.0,Yes,Occasionally,Weekly,Eggetarian,Asthma
+890.0,18.0,Other,Punjab,Delhi,160.8,75.8,24.7,,190.0,Yes,,Never,Eggetarian,Asthma
+891.0,20.0,Female,West Bengal,Bangalore,176.1,56.5,35.1,166.0,226.0,No,No,Never,Vegan,None
+,30.0,Male,Karnataka,Ahmedabad,171.0,,21.6,113.0,280.0,Yes,Occasionally,Weekly,Vegan,None
+893.0,45.0,Female,Tamil Nadu,,174.3,70.0,31.0,143.0,263.0,No,Yes,Rarely,Vegetarian,Obesity
+894.0,,Male,,Bangalore,154.0,67.1,22.4,115.0,201.0,No,Occasionally,Daily,Non-Vegetarian,Obesity
+895.0,74.0,Other,West Bengal,,,48.0,23.1,155.0,236.0,Yes,Yes,Daily,Non-Vegetarian,Hypertension
+896.0,77.0,Other,Punjab,Mumbai,164.5,83.4,,169.0,,No,Occasionally,Weekly,Eggetarian,
+897.0,66.0,Male,Delhi,Delhi,150.8,98.3,23.4,127.0,290.0,Yes,Yes,Weekly,Non-Vegetarian,Heart Disease
+,42.0,Other,Punjab,Chennai,176.1,65.1,,154.0,218.0,Yes,Yes,Rarely,Eggetarian,Obesity
+,73.0,Female,Delhi,Amritsar,156.8,49.3,25.1,164.0,269.0,No,Occasionally,Weekly,Vegetarian,Heart Disease
+900.0,50.0,Male,West Bengal,Pune,158.9,65.4,23.3,140.0,216.0,,Occasionally,Weekly,Non-Vegetarian,Obesity
+901.0,55.0,Other,,Pune,154.9,79.8,25.5,124.0,210.0,No,Occasionally,Rarely,,Heart Disease
+902.0,70.0,Male,Tamil Nadu,Bangalore,172.0,55.8,23.5,132.0,220.0,Yes,Yes,Rarely,Eggetarian,Diabetes
+903.0,23.0,Female,Gujarat,Amritsar,149.7,63.1,32.9,118.0,179.0,No,No,Never,Vegetarian,Heart Disease
+904.0,75.0,Female,Tamil Nadu,Amritsar,171.2,70.1,26.2,126.0,295.0,No,No,Weekly,Non-Vegetarian,None
+905.0,61.0,,,Delhi,175.4,83.0,19.7,170.0,245.0,No,Occasionally,Daily,Non-Vegetarian,Obesity
+906.0,62.0,Female,Tamil Nadu,,,76.6,24.5,147.0,205.0,Yes,No,Weekly,Non-Vegetarian,None
+907.0,49.0,,West Bengal,Kolkata,172.1,77.3,20.8,143.0,202.0,No,No,Daily,Vegetarian,Heart Disease
+908.0,62.0,Female,Maharashtra,,172.6,58.6,23.0,,156.0,Yes,Occasionally,Daily,,Asthma
+909.0,78.0,Male,Karnataka,,155.5,71.0,20.4,131.0,246.0,Yes,Yes,Daily,Non-Vegetarian,Asthma
+910.0,64.0,Male,Punjab,Delhi,179.3,54.2,32.4,117.0,262.0,,Occasionally,Never,Eggetarian,Asthma
+911.0,38.0,Female,Karnataka,Delhi,,77.7,21.2,118.0,274.0,,No,Rarely,Eggetarian,
+912.0,33.0,Other,Gujarat,Mumbai,164.3,82.3,26.8,132.0,281.0,Yes,Yes,Rarely,Non-Vegetarian,Hypertension
+913.0,,Female,Delhi,Amritsar,161.7,73.3,22.7,92.0,270.0,No,No,Never,,Diabetes
+914.0,38.0,Male,Punjab,Kolkata,169.9,59.5,19.4,99.0,187.0,,Yes,Rarely,Non-Vegetarian,Heart Disease
+915.0,28.0,Male,Karnataka,Kolkata,159.6,61.9,24.8,148.0,271.0,No,No,Never,Vegetarian,Hypertension
+,77.0,Female,Punjab,Amritsar,165.7,92.1,25.6,,175.0,No,,Weekly,Non-Vegetarian,Asthma
+917.0,54.0,Other,,Kolkata,152.6,59.7,26.2,165.0,278.0,Yes,No,Never,Vegetarian,Heart Disease
+,53.0,Other,Punjab,Bangalore,176.6,80.7,,136.0,153.0,,No,,Vegan,Hypertension
+919.0,52.0,Male,Delhi,Delhi,171.7,70.1,19.1,,188.0,No,,Rarely,Eggetarian,
+920.0,36.0,Male,West Bengal,Pune,162.1,60.0,27.8,121.0,203.0,Yes,No,Weekly,Vegan,Asthma
+921.0,37.0,Other,Tamil Nadu,Mumbai,160.3,,20.3,121.0,182.0,No,Occasionally,Never,Eggetarian,Hypertension
+922.0,74.0,Female,Punjab,,171.4,68.2,24.8,131.0,169.0,Yes,Occasionally,Weekly,Vegetarian,Obesity
+923.0,35.0,Male,Maharashtra,Ahmedabad,157.9,66.4,19.0,,165.0,,Occasionally,Daily,Vegan,None
+924.0,64.0,Male,West Bengal,Kolkata,166.3,92.1,26.9,115.0,298.0,Yes,Yes,Never,Eggetarian,
+,58.0,Other,Gujarat,Kolkata,176.6,52.1,27.7,,276.0,No,Yes,Weekly,Non-Vegetarian,Diabetes
+926.0,66.0,Female,Delhi,Chennai,156.9,99.4,26.9,145.0,236.0,No,No,Weekly,Vegetarian,Asthma
+,31.0,,,Bangalore,168.7,70.7,,,231.0,,No,Rarely,Vegetarian,Obesity
+,32.0,Female,Delhi,Mumbai,168.2,,30.3,170.0,211.0,No,No,Never,Non-Vegetarian,Diabetes
+929.0,,Female,,Chennai,164.0,,19.3,,180.0,Yes,Yes,Daily,Non-Vegetarian,
+930.0,,Female,Delhi,Chennai,,69.7,20.8,160.0,,Yes,,Daily,Eggetarian,Diabetes
+931.0,70.0,Male,Karnataka,Ahmedabad,177.1,72.1,,141.0,,No,No,,Vegetarian,Heart Disease
+932.0,71.0,,Punjab,Delhi,159.0,79.1,28.5,98.0,,Yes,Yes,Never,Eggetarian,Heart Disease
+933.0,71.0,Other,Tamil Nadu,Ahmedabad,146.9,50.3,21.3,111.0,222.0,No,Yes,Weekly,Non-Vegetarian,Diabetes
+934.0,20.0,Female,Karnataka,Delhi,171.4,,21.0,123.0,280.0,Yes,,Rarely,Vegetarian,None
+935.0,,Male,Karnataka,,,70.4,,138.0,264.0,Yes,Occasionally,Rarely,Non-Vegetarian,Diabetes
+936.0,40.0,Male,Maharashtra,Mumbai,171.9,74.1,17.6,90.0,,Yes,No,Rarely,Eggetarian,Hypertension
+937.0,74.0,Other,Karnataka,Kolkata,,61.7,18.9,162.0,255.0,Yes,,Never,Eggetarian,Diabetes
+938.0,28.0,,Maharashtra,Mumbai,171.3,51.1,19.0,173.0,165.0,Yes,Occasionally,,Eggetarian,Heart Disease
+939.0,,Male,Gujarat,Bangalore,175.7,66.1,22.8,,227.0,No,Yes,Weekly,Vegetarian,Heart Disease
+940.0,27.0,Female,Punjab,Delhi,185.2,,25.1,172.0,274.0,No,No,,,Hypertension
+941.0,49.0,Male,Maharashtra,Chennai,174.7,44.2,25.7,129.0,280.0,Yes,No,Never,Non-Vegetarian,Hypertension
+942.0,33.0,Female,Tamil Nadu,Kolkata,168.3,76.9,22.0,134.0,,No,No,Rarely,Eggetarian,Asthma
+943.0,25.0,Other,West Bengal,,181.3,79.9,22.1,157.0,,Yes,Yes,Daily,Eggetarian,None
+944.0,55.0,Male,Punjab,Bangalore,182.5,54.1,24.5,98.0,261.0,Yes,Occasionally,Daily,Eggetarian,None
+945.0,29.0,Other,Maharashtra,Mumbai,182.7,49.7,18.0,111.0,276.0,Yes,No,,Eggetarian,None
+946.0,41.0,Other,,Ahmedabad,160.1,60.5,27.8,,170.0,,Occasionally,Rarely,Vegan,Obesity
+947.0,45.0,Male,,Bangalore,151.5,65.4,29.1,165.0,296.0,No,Occasionally,Rarely,,Heart Disease
+948.0,70.0,Male,,Bangalore,159.5,61.0,21.5,132.0,,Yes,Yes,Never,,None
+949.0,25.0,Other,Gujarat,Kolkata,172.0,,22.4,128.0,196.0,No,Yes,,Eggetarian,Asthma
+,75.0,Male,Tamil Nadu,Bangalore,,68.3,29.0,162.0,299.0,Yes,Yes,,Eggetarian,Asthma
+951.0,45.0,Female,Delhi,Bangalore,162.9,44.5,23.5,95.0,,Yes,Yes,Never,Non-Vegetarian,None
+952.0,53.0,Female,Delhi,Pune,170.6,46.2,26.4,172.0,277.0,No,Yes,Rarely,Vegetarian,Hypertension
+953.0,43.0,Male,Maharashtra,Amritsar,150.3,24.2,23.6,137.0,,,Yes,Weekly,Non-Vegetarian,Asthma
+,25.0,Other,Punjab,Ahmedabad,166.4,79.1,30.2,96.0,191.0,Yes,No,Never,Vegan,Hypertension
+955.0,75.0,Male,Maharashtra,Ahmedabad,,65.2,,,158.0,,Occasionally,,,Heart Disease
+,77.0,Male,Gujarat,Ahmedabad,170.5,80.7,26.2,158.0,174.0,No,Yes,Never,Eggetarian,Obesity
+957.0,67.0,Other,Gujarat,Delhi,171.9,47.9,26.3,105.0,151.0,No,No,Weekly,Vegan,Asthma
+958.0,45.0,Other,,Chennai,181.0,65.4,21.8,90.0,168.0,Yes,Occasionally,Never,Vegan,Hypertension
+959.0,45.0,Female,Gujarat,Amritsar,164.3,68.2,22.1,126.0,169.0,Yes,Yes,Rarely,,None
+960.0,54.0,Other,Karnataka,Ahmedabad,158.5,56.6,27.1,172.0,219.0,No,Yes,Never,Vegetarian,Heart Disease
+961.0,58.0,Female,Tamil Nadu,,176.9,41.7,,126.0,166.0,No,,Never,Vegan,Diabetes
+962.0,53.0,Other,Maharashtra,Bangalore,176.7,91.2,19.3,170.0,273.0,Yes,Occasionally,Rarely,,
+963.0,44.0,Male,West Bengal,Ahmedabad,170.6,86.0,31.5,153.0,238.0,Yes,Yes,Daily,,None
+964.0,71.0,Female,Tamil Nadu,Kolkata,163.4,59.3,27.9,179.0,243.0,,,Never,Vegan,Heart Disease
+965.0,34.0,Female,Gujarat,Ahmedabad,165.0,72.7,24.2,,233.0,No,No,Never,Eggetarian,Heart Disease
+966.0,26.0,Female,Tamil Nadu,Bangalore,152.2,57.7,22.9,,280.0,No,Yes,Weekly,Non-Vegetarian,Heart Disease
+967.0,,Male,Tamil Nadu,Delhi,176.1,50.1,24.8,161.0,,No,Occasionally,Daily,Eggetarian,Heart Disease
+968.0,70.0,Male,Tamil Nadu,Mumbai,175.8,92.4,26.1,150.0,200.0,Yes,No,Weekly,Eggetarian,Diabetes
+969.0,37.0,Male,Gujarat,Mumbai,151.9,,15.9,122.0,231.0,Yes,No,Rarely,Eggetarian,Hypertension
+970.0,30.0,Male,West Bengal,Amritsar,173.7,60.7,32.4,155.0,157.0,Yes,Yes,,Vegan,Heart Disease
+971.0,,Male,Punjab,Amritsar,169.0,66.3,20.8,119.0,270.0,Yes,Occasionally,Weekly,Vegetarian,Hypertension
+,,Female,Tamil Nadu,Ahmedabad,154.8,,24.0,109.0,153.0,No,Yes,Never,Vegetarian,Heart Disease
+973.0,46.0,Male,Karnataka,Pune,152.9,78.4,24.1,149.0,235.0,Yes,,Daily,Eggetarian,Asthma
+974.0,30.0,Female,Gujarat,Ahmedabad,168.7,39.9,32.0,171.0,277.0,No,Occasionally,Weekly,Vegan,Obesity
+975.0,63.0,,Tamil Nadu,,161.0,,23.6,163.0,259.0,Yes,Occasionally,Weekly,Non-Vegetarian,Asthma
+976.0,52.0,Other,West Bengal,Ahmedabad,183.2,65.3,,113.0,248.0,Yes,Occasionally,Rarely,,Obesity
+977.0,,Female,Punjab,Amritsar,174.5,61.6,25.6,93.0,186.0,Yes,No,Never,Non-Vegetarian,
+978.0,23.0,Other,Gujarat,Mumbai,169.7,74.3,20.2,126.0,220.0,No,No,Daily,Non-Vegetarian,Heart Disease
+979.0,35.0,Female,Delhi,Bangalore,170.2,43.9,24.5,93.0,182.0,Yes,Occasionally,Weekly,Vegan,Hypertension
+980.0,68.0,Other,Punjab,Ahmedabad,178.3,58.9,23.5,166.0,180.0,No,No,Daily,Vegan,Obesity
+981.0,,Male,Karnataka,Bangalore,173.5,72.2,19.7,178.0,274.0,No,Yes,Daily,,Diabetes
+982.0,64.0,,Tamil Nadu,,170.0,75.2,25.4,,161.0,Yes,Occasionally,Weekly,Vegetarian,
+983.0,42.0,Male,West Bengal,Pune,,67.2,24.1,107.0,160.0,No,Yes,Daily,,Obesity
+984.0,19.0,,Delhi,Bangalore,195.6,60.7,26.2,177.0,237.0,Yes,Occasionally,Rarely,Eggetarian,Obesity
+985.0,27.0,Other,West Bengal,Mumbai,154.0,63.2,24.8,155.0,221.0,No,Yes,Never,Vegetarian,Diabetes
+986.0,73.0,Male,Delhi,Delhi,161.9,76.1,21.4,137.0,181.0,Yes,Occasionally,Never,Non-Vegetarian,Heart Disease
+987.0,47.0,Other,Gujarat,Delhi,148.5,65.5,27.1,122.0,206.0,No,Yes,Never,Eggetarian,Asthma
+988.0,67.0,Other,Delhi,Chennai,170.4,49.4,21.5,147.0,235.0,No,Occasionally,Rarely,Non-Vegetarian,Asthma
+989.0,76.0,Male,Karnataka,Kolkata,166.5,46.5,11.6,172.0,168.0,Yes,Occasionally,Rarely,Vegan,Hypertension
+990.0,62.0,Male,Karnataka,Ahmedabad,172.7,,24.5,162.0,265.0,Yes,No,Rarely,Non-Vegetarian,Heart Disease
+991.0,22.0,,Maharashtra,Kolkata,,86.8,21.8,117.0,163.0,Yes,Yes,Never,,Diabetes
+992.0,72.0,Male,Karnataka,Mumbai,176.1,77.1,25.5,124.0,182.0,Yes,No,Daily,Vegan,Heart Disease
+993.0,73.0,Male,Punjab,Bangalore,156.9,63.4,32.0,99.0,159.0,,Yes,Rarely,Eggetarian,Heart Disease
+994.0,50.0,,Delhi,,163.5,58.2,32.1,154.0,229.0,No,No,Weekly,,Asthma
+995.0,71.0,Female,Karnataka,Kolkata,174.3,56.4,23.3,131.0,213.0,No,Occasionally,,Eggetarian,Diabetes
+996.0,,Other,,,,,20.7,174.0,217.0,No,No,Weekly,Vegan,None
+997.0,35.0,Other,West Bengal,Delhi,168.3,93.6,26.3,98.0,,Yes,No,Never,,Obesity
+998.0,49.0,Female,West Bengal,Bangalore,173.0,55.9,22.5,149.0,274.0,No,Occasionally,Weekly,Non-Vegetarian,
+999.0,64.0,Other,Maharashtra,Kolkata,169.3,82.1,25.6,104.0,229.0,Yes,No,Rarely,Vegetarian,Diabetes
+1000.0,66.0,Male,West Bengal,Delhi,,65.4,21.4,146.0,208.0,No,Occasionally,Rarely,Vegetarian,Hypertension
