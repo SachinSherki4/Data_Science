@@ -13,7 +13,7 @@ Here whenever we get any data first thing is to do the basic data exploration :
 
 
 
-### Here while Learning through this Course use below sequence for better structure format
+### Here while Learning through this Course use below sequence for better structure format 
 1. {dv_practice_1.ipynb}
 2. {dv_practice_2.ipynb}
 3. {dv_practice_3.ipynb}
@@ -22,3 +22,6 @@ Here whenever we get any data first thing is to do the basic data exploration :
 6. {numerical_data_normalization_standardization.ipynb}
 7. {categorical_data_standadisation_normalisation.ipynb}
 8. {data_variable.ipynb}
+9. {numerical_data_normalisation_standardisation.ipynb}
+10. {=> Prbability_distribution}
+1. {prob_practice_1.ipynb}
